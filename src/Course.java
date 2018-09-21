@@ -11,8 +11,11 @@ public class Course {
     String description;             //Description of the course
     String department;              //What department the course is a part of
 
+    /**
+     *This Course is the Constructor
+     */
 
-    public Course(String name, int credits, String[] prereq, String coursenumber, Enum offeredIn, String description, String department) {
+ public Course(String name, int credits, String[] prereq, String coursenumber, Enum offeredIn, String description, String department) {
         this.name = name;
         this.credits = credits;
         this.prereq = prereq;
@@ -22,12 +25,13 @@ public class Course {
         this.department = department;
     }
 
-
+    /**
+     * This the Getters for the course
+     */
 
     public Course(String name, String coursenumber, String description, String[] prereq, int credits){
 
     }
-
 
     public String getName() {
         return name;
@@ -55,6 +59,13 @@ public class Course {
 
     public String getDepartment() {
         return department;
+    }
+
+    /**
+     * Setter for Enum Only
+     */
+    public void setOfferedIn(Enum offeredIn) {
+        OfferedIn = offeredIn;
     }
 
     /**
