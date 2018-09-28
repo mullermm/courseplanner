@@ -16,7 +16,8 @@ public class CourseListTextScanner {
      * */
     public static void main(String[] args){
 
-        BuildCourseList();
+        CourseList courseList = new CourseList();
+        ScanCourseList(courseList);
 
     }
 
@@ -24,7 +25,7 @@ public class CourseListTextScanner {
      * This method is used to scan CourseDescriptions.txt, remove page numbers, read in the text, create course
      * objects, and create a CourseList object. This CourseList object will contain every course offered at
      * Augsburg.*/
-    public static void BuildCourseList(){
+    public static CourseList ScanCourseList(CourseList courseList){
 
 
         /** This is the course list provided by the customer*/
@@ -52,7 +53,9 @@ public class CourseListTextScanner {
 
             scanner.nextLine();                         //Eats the first line of the text file - We don't need it
 
-           RemovePageNumber(scanner, fileIn, tempFile);
+            RemovePageNumber(scanner, fileIn, tempFile); //Removes the page number from CourseDescriptions.txt
+
+
 
         }
         catch (FileNotFoundException e){
@@ -62,6 +65,16 @@ public class CourseListTextScanner {
             System.out.println("Error opening the temp file CourseListText/Temp.txt");
         }
         File file = new File("ParsedCourseList.txt");
+
+
+        return courseList;
+
+    }
+
+    public static void AddCoursesToCourseList(Scanner scanner, File fileIn, CourseList courseList){
+
+        Course course = new Course();
+
 
     }
 
@@ -117,7 +130,6 @@ public class CourseListTextScanner {
             }
             ins.close();
             outs.close();
-            System.out.println("File copied successfully!!");
         } catch(IOException ioe) {
             ioe.printStackTrace();
         }
@@ -136,6 +148,10 @@ public class CourseListTextScanner {
         if(temp.contains("-")){
             temp = scanner.nextLine();
         }
+
+    }
+
+    public static void BuildCourse(Scanner scanner, File fileIn){
 
     }
 
