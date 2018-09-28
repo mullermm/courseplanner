@@ -56,7 +56,6 @@ public class CourseListTextScanner {
             RemovePageNumber(scanner, fileIn, tempFile); //Removes the page number from CourseDescriptions.txt
 
 
-
         }
         catch (FileNotFoundException e){
             System.out.println("Input File Not Found! Expected to find CourseDescriptions.txt");
@@ -64,6 +63,7 @@ public class CourseListTextScanner {
         catch (IOException e){
             System.out.println("Error opening the temp file CourseListText/Temp.txt");
         }
+
         File file = new File("ParsedCourseList.txt");
 
 
@@ -111,6 +111,23 @@ public class CourseListTextScanner {
 
     }
 
+
+    public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile) throws IOException{
+
+        FileWriter fw = new FileWriter(tempFile);
+        BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
+        String temp;                                        //This will hold the current line being read in by scanner
+
+        fw.flush();                                         //Makes sure tempFile is flushed
+
+        br.close();                                         //Close the writer so the buffer clears to temp.txt
+        CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
+        tempFile.delete();                                  //Deletes the temp file
+
+
+
+    }
+
     /**
      *This method takes two files and copies ton contents of the inFile to the outFile.
      *
@@ -136,6 +153,9 @@ public class CourseListTextScanner {
     }
 
 
+
+    /**
+     * */
     public static void AddCoursesToList(Scanner scanner, File fileIn){
 
         String temp;

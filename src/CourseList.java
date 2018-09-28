@@ -21,11 +21,6 @@ public class CourseList {
     /**Constructors */
     public CourseList(){
 
-
-
-
-
-
     }
 
     /**Getters*/
