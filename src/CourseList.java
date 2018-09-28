@@ -46,6 +46,21 @@ public class CourseList {
      * @param department department to add to list of department
      */
     public void addToDepartment(String department){ this.listOfDepartmentNames.add(department); }
+
+
+    public Course CourseSearch(String NameOfCoursetoSearch) {
+        bool Found = false;
+        while(!Found))
+        {
+            int index
+            for (int x=0;x<ArrayList.Length();x++) {
+
+            }
+        }
+
+        return CourseFound;
+
+    }
 }
 
 
