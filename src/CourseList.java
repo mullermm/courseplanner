@@ -50,16 +50,17 @@ public class CourseList {
 
     public Course CourseSearch(String NameOfCoursetoSearch) {
         bool Found = false;
-        while(!Found))
+       while(!Found))
         {
-            int index
-            for (int x=0;x<ArrayList.Length();x++) {
-
+            int index =0;
+            for (int x=0;x<this.Length();x++) {
+                if this[x].getName() == NameOfCoursetoSearch;{
+                    Found = true;
+                    index=x;
+                }
             }
         }
-
-        return CourseFound;
-
+        return this[index];
     }
 }
 
