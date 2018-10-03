@@ -46,23 +46,31 @@ public class CourseList {
      * @param department department to add to list of department
      */
     public void addToDepartment(String department){ this.listOfDepartmentNames.add(department); }
-
-
+    
+    /**@author Beteab Gebru
+     * This method takes in a string(name) of a course to search and retuns the object found
+     * @param NameOfCoursetoSearch to add to list of department
+     *
+     */
     public Course SearchbyCoureName(String NameOfCoursetoSearch) {
-        bool Found = false;
+        boolean Found = false;
+	
         while(!Found))
         {
             int index =0;
-            for (int x=0;x<this.Length();x++) {
-                if this[x].getName() == NameOfCoursetoSearch;{
+            for (int x=0;x<this.length();x++) {
+                if listOfCourses[x].getName() == NameOfCoursetoSearch;{
                     Found = true;
                     index=x;
                 }
             }
         }
-
-        return this[index];
+        return listOfCourses[index];
     }
+
+
+
+
 }
 
 
