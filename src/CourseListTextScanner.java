@@ -210,6 +210,104 @@ public class CourseListTextScanner {
     }
 
 
+
+    public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile, CourseList courseList) throws IOException{
+        FileWriter fw = new FileWriter(tempFile);
+        BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
+        String temp;                                        //This will hold the current line being read in by scanner
+
+        fw.flush();                                         //Makes sure tempFile is flushed
+
+        br.close();                                         //Close the writer so the buffer clears to temp.txt
+        CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
+        tempFile.delete();                                  //Deletes the temp file
+
+
+
+
+
+
+
+    }
+
+    public static void CreateDeptList(Scanner scanner, File fileIn, CourseList courseList) throws IOException{
+
+
+        String temp;                                        //This will hold the current line being read in by scanner
+
+
+
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //Store next line into temp
+            if (temp.contains("-")) {                          //If the line is an integer do nothing and dont copy it
+                courseList.addToDepartment(temp);           //adding Course to temp
+
+            }
+        }
+
+
+
+
+    }
+
+    /**
+     *This method takes two files and copies ton contents of the inFile to the outFile.
+     *
+     * @author https://www.tutorialspoint.com/javaexamples/file_copy.htm
+     * */
+    public static void CopyFile(File inFile, File outFile) {
+        FileInputStream ins = null;
+        FileOutputStream outs = null;
+        try {
+            ins = new FileInputStream(inFile);
+            outs = new FileOutputStream(outFile);
+            byte[] buffer = new byte[1024];
+            int length;
+
+            while ((length = ins.read(buffer)) > 0) {
+                outs.write(buffer, 0, length);
+            }
+            ins.close();
+            outs.close();
+        } catch(IOException ioe) {
+            ioe.printStackTrace();
+        }
+    }
+
+    /**
+     * This method is used to remove page numbers from CourseDescriptions.txt
+     * @param scanner       Scanner built from CourseDescriptions.txt
+     * @param fileIn        File object containing the path to CourseDesctiptions.txt
+     * @param tempFile      File object containing the path to Temp.txt
+     * @throws IOException  Is thrown if scanner and files have errors finding files. Caught in method that calls this.
+     */
+    public static void RemovePageNumber(Scanner scanner, File fileIn, File tempFile) throws IOException{
+
+        FileWriter fw = new FileWriter(tempFile);
+        BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
+        String temp;                                        //This will hold the current line being read in by scanner
+
+        fw.flush();                                         //Makes sure tempFile is flushed
+
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //Store next line into temp
+            if (isInteger(temp)) {                          //If the line is an integer do nothing and dont copy it
+                //Don't copy line to temp file
+            } else {                                        //Write the line to temp.txt and append a new line
+                br.write(temp);
+                br.write("\n");
+            }
+        }
+
+        br.close();                                         //Close the writer so the buffer clears to temp.txt
+        CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
+        tempFile.delete();                                  //Deletes the temp file
+
+
+
+    }
+
+
     public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile) throws IOException{
 
         FileWriter fw = new FileWriter(tempFile);
@@ -251,6 +349,43 @@ public class CourseListTextScanner {
     }
 
 
+
+    /**
+     * */
+    public static void AddCoursesToList(Scanner scanner, File fileIn){
+
+        String temp;
+
+        scanner.nextLine();         //Eats the first line of the text file - We don't need it
+
+        temp = scanner.nextLine();  //read in the first line
+
+        /** If the line has a "-" in it, the line is not part of a Course*/
+        if(temp.contains("-")){
+            temp = scanner.nextLine();
+        }
+
+    }
+
+    public static void BuildCourse(Scanner scanner, File fileIn){
+
+    }
+
+    /**
+     * This method will check to see if a string is an integer. If so, it returns true, else it returns false
+     */
+    public static boolean isInteger(String s) {
+        boolean isValidInteger = false;
+        try {
+            Integer.parseInt(s);
+            isValidInteger = true;
+        }
+        catch (NumberFormatException ex)
+        {
+            //Is not an integer
+        }
+        return isValidInteger;
+    }
 
     /**
      * */
