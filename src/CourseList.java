@@ -50,27 +50,26 @@ public class CourseList {
 
     /**@author Beteab Gebru
      * This method takes in a string(name) of a course to search and retuns the object found
-     * @param NameOfCoursetoSearch to add to list of department
+     * @param NameOfCoursetoSearch: string name of course will be passed to search list of courses
      *
      */
     public Course SearchbyCoureName(String NameOfCoursetoSearch) {
 
         boolean Found = false;
-
         int index = 0;
         int x = 0;
 
         while(!Found || x == listOfCourses.size()) {
 
-            for (x = 0; x < listOfCourses.size(); x++) {
+            
                 if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
                     Found = true;
                     index=x;
-                }
+                    x++;
             }
 
         }
-        return listOfCourses.get(index);
+        return listOfCourses.get(index);//returns a course object
     }
 
 }
