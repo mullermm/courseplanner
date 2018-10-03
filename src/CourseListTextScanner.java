@@ -115,12 +115,25 @@ public class CourseListTextScanner {
 
     }
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
     public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile) throws IOException{
 
 =======
 
+=======
+    /**
+     * This method takes the course list text document and removes the department header. This header has a - in it,
+     * which makes it easy to find and remove.
+     *
+     * @param scanner scanner of our courselist text file
+     * @param fileIn  file object of course list text file being read in
+     * @param tempFile file object of our temp file for manipulating text
+     * @param courseList list of all our courses
+     * @throws IOException If the temp file is not found, we throw this exception to where it was called from
+     */
+>>>>>>> f81cddb1be8905ebf1ee81852f32e1e9421f8228
     public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile, CourseList courseList) throws IOException{
 >>>>>>> master
         FileWriter fw = new FileWriter(tempFile);
@@ -128,6 +141,16 @@ public class CourseListTextScanner {
         String temp;                                        //This will hold the current line being read in by scanner
 
         fw.flush();                                         //Makes sure tempFile is flushed
+
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //Store next line into temp
+            if (temp.contains("-")) {                          //If the line is an integer do nothing and dont copy it
+                //Don't copy line to temp file
+            } else {                                        //Write the line to temp.txt and append a new line
+                br.write(temp);
+                br.write("\n");
+            }
+        }
 
         br.close();                                         //Close the writer so the buffer clears to temp.txt
         CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
@@ -143,6 +166,7 @@ public class CourseListTextScanner {
 
     }
 
+<<<<<<< HEAD
     public static void CreateDeptList(Scanner scanner, File fileIn, CourseList courseList) throws IOException{
 
 
@@ -164,6 +188,8 @@ public class CourseListTextScanner {
 >>>>>>> master
     }
 
+=======
+>>>>>>> f81cddb1be8905ebf1ee81852f32e1e9421f8228
     /**
      *This method takes two files and copies ton contents of the inFile to the outFile.
      *
@@ -188,7 +214,42 @@ public class CourseListTextScanner {
         }
     }
 
+    public static void CreateDeptList(Scanner scanner, File fileIn, CourseList courseList) throws IOException{
 
+
+        String temp;                                        //This will hold the current line being read in by scanner
+
+
+
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //Store next line into temp
+            if (temp.contains("-")) {                          //If the line is an integer do nothing and dont copy it
+                courseList.addToDepartment(temp);           //adding Course to temp
+
+            }
+        }
+
+
+
+
+    }
+
+
+    public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile) throws IOException{
+
+        FileWriter fw = new FileWriter(tempFile);
+        BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
+        String temp;                                        //This will hold the current line being read in by scanner
+
+        fw.flush();                                         //Makes sure tempFile is flushed
+
+        br.close();                                         //Close the writer so the buffer clears to temp.txt
+        CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
+        tempFile.delete();                                  //Deletes the temp file
+
+
+
+    }
 
     /**
      * */
@@ -206,6 +267,7 @@ public class CourseListTextScanner {
         }
 
     }
+
 
     public static void BuildCourse(Scanner scanner, File fileIn){
 
@@ -226,5 +288,6 @@ public class CourseListTextScanner {
         }
         return isValidInteger;
     }
+
 
 }

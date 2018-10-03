@@ -75,6 +75,7 @@ public class Course {
 
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     
 >>>>>>> master
@@ -86,5 +87,7 @@ public class Course {
 
 =======
 >>>>>>> master
+=======
+>>>>>>> f81cddb1be8905ebf1ee81852f32e1e9421f8228
 
 }

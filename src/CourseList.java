@@ -58,18 +58,23 @@ public class CourseList {
      *
      */
     public Course SearchbyCoureName(String NameOfCoursetoSearch) {
+
         boolean Found = false;
-	
-        while(!Found))
-        {
-            int index =0;
-            for (int x=0;x<this.length();x++) {
-                if listOfCourses[x].getName() == NameOfCoursetoSearch;{
+
+        int index = 0;
+        int x = 0;
+
+        while(!Found || x == listOfCourses.size()) {
+
+            for (x = 0; x < listOfCourses.size(); x++) {
+                if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
                     Found = true;
                     index=x;
                 }
             }
+
         }
+<<<<<<< HEAD
         return listOfCourses[index];
     }
 <<<<<<< HEAD
@@ -101,6 +106,12 @@ public class CourseList {
 
     }
 >>>>>>> master
+=======
+
+        return listOfCourses.get(index);
+    }
+
+>>>>>>> f81cddb1be8905ebf1ee81852f32e1e9421f8228
 }
 
 
