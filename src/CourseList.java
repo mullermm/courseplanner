@@ -54,23 +54,25 @@ public class CourseList {
      *
      */
     public Course SearchbyCoureName(String NameOfCoursetoSearch) {
+
         boolean Found = false;
-	
-        while(!Found))
-        {
-            int index =0;
-            for (int x=0;x<this.length();x++) {
-                if listOfCourses[x].getName() == NameOfCoursetoSearch;{
+
+        int index = 0;
+        int x = 0;
+
+        while(!Found || x == listOfCourses.size()) {
+
+            for (x = 0; x < listOfCourses.size(); x++) {
+                if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
                     Found = true;
                     index=x;
                 }
             }
-        }
-        return listOfCourses[index];
-    }
-    
 
+        }
+        return listOfCourses.get(index);
     }
+
 }
 
 
