@@ -46,7 +46,12 @@ public class CourseList {
      * @param department department to add to list of department
      */
     public void addToDepartment(String department){ this.listOfDepartmentNames.add(department); }
+<<<<<<< HEAD
     
+=======
+
+
+>>>>>>> master
     /**@author Beteab Gebru
      * This method takes in a string(name) of a course to search and retuns the object found
      * @param NameOfCoursetoSearch to add to list of department
@@ -67,6 +72,7 @@ public class CourseList {
         }
         return listOfCourses[index];
     }
+<<<<<<< HEAD
      /**@author Beteab Gebru
      * This method takes in a string(coursenumber) of a course to search and retuns the course object found
      * @param NameOfCoursetoSearch to add to list of department
@@ -90,6 +96,11 @@ public class CourseList {
 
 
 
+=======
+    
+
+    }
+>>>>>>> master
 }
 
 

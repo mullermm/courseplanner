@@ -54,7 +54,11 @@ public class CourseListTextScanner {
             scanner.nextLine();                         //Eats the first line of the text file - We don't need it
 
             RemovePageNumber(scanner, fileIn, tempFile); //Removes the page number from CourseDescriptions.txt
+<<<<<<< HEAD
 
+=======
+            CreateDeptList(scanner,fileIn, courseList); //Creating Dept List and Course List
+>>>>>>> master
 
         }
         catch (FileNotFoundException e){
@@ -112,8 +116,13 @@ public class CourseListTextScanner {
     }
 
 
+<<<<<<< HEAD
     public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile) throws IOException{
 
+=======
+
+    public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile, CourseList courseList) throws IOException{
+>>>>>>> master
         FileWriter fw = new FileWriter(tempFile);
         BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
         String temp;                                        //This will hold the current line being read in by scanner
@@ -126,6 +135,33 @@ public class CourseListTextScanner {
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+    }
+
+    public static void CreateDeptList(Scanner scanner, File fileIn, CourseList courseList) throws IOException{
+
+
+        String temp;                                        //This will hold the current line being read in by scanner
+
+
+
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //Store next line into temp
+            if (temp.contains("-")) {                          //If the line is an integer do nothing and dont copy it
+                courseList.addToDepartment(temp);           //adding Course to temp
+
+            }
+        }
+
+
+
+
+>>>>>>> master
     }
 
     /**
