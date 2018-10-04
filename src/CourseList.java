@@ -47,29 +47,30 @@ public class CourseList {
 
 
 
-    /**@author Beteab Gebru
-     * This method takes in a string(name) of a course to search and retuns the object found
-     * @param NameOfCoursetoSearch: string name of course will be passed to search list of courses
-     *@return course object from arraylist of courses if found NUll object is returned otherwise
-     */
-    public Course SearchbyCoureName(String NameOfCoursetoSearch) {
 
-        boolean Found = false;
+    /**@author Beteab Gebru
+     * This method takes in a string(name) of a course and returns the index to the object if found in search
+     * @param NameOfCoursetoSearch: string name of course will be passed to search array_list of courses
+     *@return integer index  to an array element 
+     */
+    public int SearchbyCoureName(String NameOfCoursetoSearch) {
+
+        boolean found = false;
         int index = 0;
         int x = 0;
 
-        while(!Found || index < listOfCourses.size()){
+        while(!found || index < listOfCourses.size()){
 
             if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
-                Found = true;
+                found = true;
             }
             index++;
         }
 
         if(found)
-            return listOfCourses.get(index);//returns a course object found
+            return index;//returns a course object found
         else
-            return Null;//null
+            return -1;//indicating not found
     }
 
 }
