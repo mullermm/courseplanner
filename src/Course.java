@@ -74,20 +74,5 @@ public class Course {
         SPRING, SUMMER, FALL, ALL, FALLANDSPRING
 
     }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    
->>>>>>> master
-    @Overide
-    public static getName(){
-        return this.name;
-    }
-<<<<<<< HEAD
-
-=======
->>>>>>> master
-=======
->>>>>>> f81cddb1be8905ebf1ee81852f32e1e9421f8228
 
 }
