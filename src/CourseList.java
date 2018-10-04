@@ -14,8 +14,6 @@ public class CourseList {
         CourseListTextScanner.ScanCourseList(courseList);
 
 
-
-
     }
 
     /**Constructors */
@@ -51,7 +49,7 @@ public class CourseList {
     /**@author Beteab Gebru
      * This method takes in a string(name) of a course to search and retuns the object found
      * @param NameOfCoursetoSearch: string name of course will be passed to search list of courses
-     *
+     *@return course object from arraylist of courses if found NUll object is returned otherwise
      */
     public Course SearchbyCoureName(String NameOfCoursetoSearch) {
 
@@ -59,17 +57,18 @@ public class CourseList {
         int index = 0;
         int x = 0;
 
-        while(!Found || x == listOfCourses.size()) {
+        while(!Found || index < listOfCourses.size()){
 
-            
-                if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
-                    Found = true;
-                    index=x;
-                    x++;
+            if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
+                Found = true;
             }
-
+            index++;
         }
-        return listOfCourses.get(index);//returns a course object
+        if(found)
+            return listOfCourses.get(index);//returns a course object found
+        else
+            return Null;//null
+
     }
 
 }
