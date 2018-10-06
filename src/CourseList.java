@@ -58,7 +58,7 @@ public class CourseList {
         boolean found = false;
         int index = 0;
         int x = 0;
-
+        if(listOfCourses.size()>0)//checking if list is null
         while(!found || index < listOfCourses.size()){
 
             if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
@@ -70,7 +70,7 @@ public class CourseList {
         if(found)
             return index;//returns a course object found
         else
-            return -1;//indicating not found
+            return -1;//indicating not found or null list
     }
 
 }
