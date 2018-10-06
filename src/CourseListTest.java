@@ -30,5 +30,13 @@ public class CourseListTest {
 
     }
 
+    @Test
+    public void getListOfDepNames() {
 
+        CourseList test = new CourseList();
+        ArrayList<String> expected = new ArrayList<>();
+        ArrayList<String> actual = test.getListOfDepNames();
+
+        assertEquals(expected, actual);
+    }
 }
