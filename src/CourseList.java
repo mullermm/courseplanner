@@ -2,8 +2,11 @@ import java.util.ArrayList;
 
 public class CourseList {
 
-    ArrayList<Course> listOfCourses;
-    ArrayList<String> listOfDepartmentNames;
+    ArrayList<Course> listOfCourses = new ArrayList<>();                                //Entire list of courses offered at Augsburg
+    ArrayList<String> listOfDepartmentNames = new ArrayList<>();                        //Entire list of departments at Augsburg
+
+
+
     /**
      * This methos is used for testing a debugging the CourseList class
      * @param args
@@ -13,11 +16,13 @@ public class CourseList {
         CourseList courseList = new CourseList();
         CourseListTextScanner.ScanCourseList(courseList);
 
-
     }
+
 
     /**Constructors */
     public CourseList(){
+
+
 
     }
 
@@ -30,8 +35,6 @@ public class CourseList {
         return this.listOfDepartmentNames;
     }
 
-
-
     /**
      * This method adds a course to the array list "listOfCourses"
      * @param course course to add to list of courses
@@ -39,14 +42,12 @@ public class CourseList {
     public void addToCourses(Course course){
         this.listOfCourses.add(course);
     }
+
     /**
      * This method adds a course to the array list "listOfDepartments"
      * @param department department to add to list of department
      */
     public void addToDepartment(String department){ this.listOfDepartmentNames.add(department); }
-
-
-
 
     /**@author Beteab Gebru
      * This method takes in a string(name) of a course and returns the index to the object if found in search

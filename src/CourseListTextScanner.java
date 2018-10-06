@@ -1,6 +1,7 @@
 import java.io.*;
-import java.util.NoSuchElementException;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 
 
@@ -27,7 +28,6 @@ public class CourseListTextScanner {
      * Augsburg.*/
     public static CourseList ScanCourseList(CourseList courseList){
 
-
         /** This is the course list provided by the customer*/
         File fileIn = new File("CourseListText/CourseDescriptions.txt");
 
@@ -37,7 +37,7 @@ public class CourseListTextScanner {
          * be written back to CourseDescriptions.txt*/
         File tempFile = new File("CourseListText/Temp.txt");
 
-        //Create the new file and verify we are not writing over an already existing Temp.txt
+        /**Create the new file and verify we are not writing over an already existing Temp.txt*/
         try {
             tempFile.createNewFile();
         }
@@ -49,12 +49,18 @@ public class CourseListTextScanner {
         try {
 
             Scanner scanner = new Scanner(fileIn);      //Our scanner to read in the file from the customer
-            String temp;                                //Will store the lines we are reading in from scanner
-
             scanner.nextLine();                         //Eats the first line of the text file - We don't need it
 
-            RemovePageNumber(scanner, fileIn, tempFile); //Removes the page number from CourseDescriptions.txt
-            CreateDeptList(scanner,fileIn, courseList); //Creating Dept List and Course List
+            CreateDeptList(scanner,fileIn, courseList);  //Creates Department List in the Course List Object
+            System.out.println(courseList.listOfDepartmentNames);
+           // System.out.println(courseList.listOfDepartmentNames);
+
+            /**The next three lines are used to manipulate the text file CourseDescriptions.txt. First, we remove
+             * the page numbers from the file. Next, we remove any department name "headers" from the file. Last,
+             * we take the CourseListDescriptions.txt file and create our list of courses inside our course list
+             * object. */
+            //RemovePageNumber(scanner, fileIn, tempFile);
+           // RemoveDepartmentHeader(scanner, fileIn, tempFile);
 
         }
         catch (FileNotFoundException e){
@@ -64,18 +70,40 @@ public class CourseListTextScanner {
             System.out.println("Error opening the temp file CourseListText/Temp.txt");
         }
 
-        File file = new File("ParsedCourseList.txt");
-
-
         return courseList;
 
     }
 
-    public static void AddCoursesToCourseList(Scanner scanner, File fileIn, CourseList courseList){
+    /**
+     * This method takes the CourseList.txt file and looks for any line containing a "-". This line has the name
+     * of a department at Augsburg, and this method takes that department name, stores it into the listOfDepartments
+     * of the CourseList sent to this method.
+     *
+     * @param scanner Scanner of infile
+     * @param fileIn File of infile
+     * @param courseList CourseList to have listOfDepartments updated for
+     * @throws IOException Throws if the infile is not found
+     */
+    public static void CreateDeptList(Scanner scanner, File fileIn, CourseList courseList) throws IOException{
 
-        Course course = new Course();
+        //String regex = "([A-Z]{3})(\\s)(-)([A-Z]{1})";
+       // String regex = "(^[A-Z]{3})(\\\\s)(-)([A-Z]{1})";
+        String regex = "(^[A-Z]{3}.)";
 
+        boolean matches;
+        courseList.addToDepartment("hi");
+        String temp = "";                                        //This will hold the current line being read in by scanner
 
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //Store next line into temp
+            matches = temp.matches(regex);
+
+            if (matches) {                                  //If the line is an integer do nothing and dont copy it
+                System.out.println(temp);
+                courseList.addToDepartment(temp);           //adding Course to temp
+
+            }
+        }
     }
 
     /**
@@ -90,7 +118,6 @@ public class CourseListTextScanner {
         FileWriter fw = new FileWriter(tempFile);
         BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
         String temp;                                        //This will hold the current line being read in by scanner
-
         fw.flush();                                         //Makes sure tempFile is flushed
 
         while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
@@ -106,9 +133,6 @@ public class CourseListTextScanner {
         br.close();                                         //Close the writer so the buffer clears to temp.txt
         CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
         tempFile.delete();                                  //Deletes the temp file
-
-
-
     }
 
     /**
@@ -118,19 +142,17 @@ public class CourseListTextScanner {
      * @param scanner scanner of our courselist text file
      * @param fileIn  file object of course list text file being read in
      * @param tempFile file object of our temp file for manipulating text
-     * @param courseList list of all our courses
      * @throws IOException If the temp file is not found, we throw this exception to where it was called from
      */
-    public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile, CourseList courseList) throws IOException{
+    public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile) throws IOException{
         FileWriter fw = new FileWriter(tempFile);
         BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
         String temp;                                        //This will hold the current line being read in by scanner
-
         fw.flush();                                         //Makes sure tempFile is flushed
 
         while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
             temp = scanner.nextLine();                      //Store next line into temp
-            if (temp.contains("-")) {                          //If the line is an integer do nothing and dont copy it
+            if (temp.contains("-")) {                       //If the line is an integer do nothing and dont copy it
                 //Don't copy line to temp file
             } else {                                        //Write the line to temp.txt and append a new line
                 br.write(temp);
@@ -141,13 +163,6 @@ public class CourseListTextScanner {
         br.close();                                         //Close the writer so the buffer clears to temp.txt
         CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
         tempFile.delete();                                  //Deletes the temp file
-
-
-
-
-
-
-
     }
 
     /**
@@ -174,67 +189,10 @@ public class CourseListTextScanner {
         }
     }
 
-    public static void CreateDeptList(Scanner scanner, File fileIn, CourseList courseList) throws IOException{
-
-
-        String temp;                                        //This will hold the current line being read in by scanner
-
-
-
-        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
-            temp = scanner.nextLine();                      //Store next line into temp
-            if (temp.contains("-")) {                          //If the line is an integer do nothing and dont copy it
-                courseList.addToDepartment(temp);           //adding Course to temp
-
-            }
-        }
-
-
-
-
-    }
-
-
-    public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile) throws IOException{
-
-        FileWriter fw = new FileWriter(tempFile);
-        BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
-        String temp;                                        //This will hold the current line being read in by scanner
-
-        fw.flush();                                         //Makes sure tempFile is flushed
-
-        br.close();                                         //Close the writer so the buffer clears to temp.txt
-        CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
-        tempFile.delete();                                  //Deletes the temp file
-
-
-
-    }
-
-    /**
-     * */
-    public static void AddCoursesToList(Scanner scanner, File fileIn){
-
-        String temp;
-
-        scanner.nextLine();         //Eats the first line of the text file - We don't need it
-
-        temp = scanner.nextLine();  //read in the first line
-
-        /** If the line has a "-" in it, the line is not part of a Course*/
-        if(temp.contains("-")){
-            temp = scanner.nextLine();
-        }
-
-    }
-
-
-    public static void BuildCourse(Scanner scanner, File fileIn){
-
-    }
-
     /**
      * This method will check to see if a string is an integer. If so, it returns true, else it returns false
+     *
+     * @author Oscar Lopez - https://stackoverflow.com/questions/8336607/how-to-check-if-the-value-is-integer-in-java
      */
     public static boolean isInteger(String s) {
         boolean isValidInteger = false;
