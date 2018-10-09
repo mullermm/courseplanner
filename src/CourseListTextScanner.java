@@ -1,9 +1,6 @@
+import javax.sound.midi.SysexMessage;
 import java.io.*;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-
 
 
 /**
@@ -48,19 +45,24 @@ public class CourseListTextScanner {
         /** Make sure the scanner actually finds the file and that*/
         try {
 
-            Scanner scanner = new Scanner(fileIn);      //Our scanner to read in the file from the customer
-            scanner.nextLine();                         //Eats the first line of the text file - We don't need it
 
-            CreateDeptList(scanner,fileIn, courseList);  //Creates Department List in the Course List Object
-            System.out.println(courseList.listOfDepartmentNames);
-           // System.out.println(courseList.listOfDepartmentNames);
-
-            /**The next three lines are used to manipulate the text file CourseDescriptions.txt. First, we remove
+            /* The next three lines are used to manipulate the text file CourseDescriptions.txt. First, we remove
              * the page numbers from the file. Next, we remove any department name "headers" from the file. Last,
              * we take the CourseListDescriptions.txt file and create our list of courses inside our course list
              * object. */
-            //RemovePageNumber(scanner, fileIn, tempFile);
-           // RemoveDepartmentHeader(scanner, fileIn, tempFile);
+
+            Scanner scanner = new Scanner(fileIn);      //Our scanner to read in the file from the customer
+            CreateDeptList(scanner, courseList);        //Creates Department List in the Course List Object
+
+            scanner = new Scanner(fileIn);              //Our scanner to read in the file from the customer
+            RemovePageNumber(scanner, fileIn, tempFile);//Removes the page number from the text file
+
+            scanner = new Scanner(fileIn);
+            AddListOfCourse(scanner, courseList);       //Adds listOfCouses to course list object
+            System.out.println("3");
+
+
+
 
         }
         catch (FileNotFoundException e){
@@ -75,31 +77,95 @@ public class CourseListTextScanner {
     }
 
     /**
+     * This method takes a course list object and populates the listOfCourses.
+     *
+     * @param scanner scanner containing file of course descriptions
+     * @param courseList Course List to have listOfCourses populated
+     * @return CourseList that has had listOfCourses populated
+     */
+    public static CourseList AddListOfCourse(Scanner scanner, CourseList courseList){
+
+        String headerRegex = "([A-Z]{3})(\\s)(–|-).*";
+        String creditRegex = "";
+        String descriptionRegex = "$\\.";
+
+        scanner.nextLine();                                 //Eats the first line of the file. We dont need it
+
+
+        boolean matches;
+        String temp = "";                                   //This will hold the current line being read in by scanner
+
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //read in the next line
+            if(temp.matches(headerRegex)){                  //If the next line is a department header
+                temp = scanner.nextLine();                  //read in the next line
+
+            }
+
+            Course course = new Course();                   //Make a new course to add to courseList's list of coures
+            course.coursenumber = temp;                     //assign the course number
+            temp = scanner.nextLine();                      //Gets the course name
+            course.name = temp;                             //assign the course name
+            temp = scanner.nextLine();                      //gets the course credits
+            course.credits = Integer.parseInt(temp.substring(0,1)); //Stores credit amount
+            temp = scanner.nextLine();
+
+            int count = 0;
+
+            while(temp.endsWith(".") == false){             //The course description ends in a . Keep apending until
+                temp += scanner.nextLine();                 //we find a .
+
+            }
+            course.description = temp;                      //Save description to course
+
+            temp = scanner.nextLine();                      //get the core curriculum
+            course.coreCurriculum = temp;                   //Store the core curriculum
+
+            temp = scanner.nextLine();                      //Get the next line
+
+            if(temp.endsWith("e")){
+                String[] prereq= new String[1];
+                prereq[0] = temp;
+                course.prereq = prereq;
+            }
+            else{
+
+
+                //KEEP WORKING HERE
+            }
+
+
+
+
+        }
+
+
+
+
+       return courseList;
+    }
+
+    /**
      * This method takes the CourseList.txt file and looks for any line containing a "-". This line has the name
      * of a department at Augsburg, and this method takes that department name, stores it into the listOfDepartments
      * of the CourseList sent to this method.
      *
      * @param scanner Scanner of infile
-     * @param fileIn File of infile
      * @param courseList CourseList to have listOfDepartments updated for
      * @throws IOException Throws if the infile is not found
      */
-    public static void CreateDeptList(Scanner scanner, File fileIn, CourseList courseList) throws IOException{
+    public static void CreateDeptList(Scanner scanner, CourseList courseList) throws IOException{
 
-        //String regex = "([A-Z]{3})(\\s)(-)([A-Z]{1})";
-       // String regex = "(^[A-Z]{3})(\\\\s)(-)([A-Z]{1})";
-        String regex = "(^[A-Z]{3}.)";
+        String regex = "([A-Z]{3})(\\s)(–|-).*";
 
-        boolean matches;
-        courseList.addToDepartment("hi");
-        String temp = "";                                        //This will hold the current line being read in by scanner
+        boolean matches;                                    //This wil become true if the regex is a match
+        String temp = "";                                   //This will hold the current line being read in by scanner
 
         while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
             temp = scanner.nextLine();                      //Store next line into temp
-            matches = temp.matches(regex);
+            matches = temp.matches(regex);                  //True if next line observes regex rule
 
             if (matches) {                                  //If the line is an integer do nothing and dont copy it
-                System.out.println(temp);
                 courseList.addToDepartment(temp);           //adding Course to temp
 
             }

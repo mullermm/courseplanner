@@ -33,7 +33,6 @@ An analysis of financial accounting with emphasis on accounting theory pertainin
 concepts, valuation concepts, FASB statements, and other relevant issues as applied to assets.
 Core Curriculum Component: None
 Prerequisite(s): ACC222(Introduction to Managerial Accounting)
-1
 
 ACC323
 Intermediate Accounting II
@@ -74,7 +73,6 @@ Advanced Accounting
 Accounting for business combinations, consolidations, governmental accounting, partnership accounting, and fund
 accounting.
 Core Curriculum Component: None
-2
 
 Prerequisite(s): ACC323(Intermediate Accounting II)
 ACC495
@@ -115,7 +113,6 @@ Native American Women and Film
 This course explores Native American women in film history as racial representations in Hollywood cinema, as political
 and social forces in indigenous film, and as role models in documentary.
 Core Curriculum Component: Humanities
-3
 
 Prerequisite(s): None
 AIS233
@@ -157,7 +154,6 @@ American Indian Women
 Through life histories of Indian women, the course examines the vital roles and contributions of women in past and
 present tribal cultures. It explores the continuity of women’s roles over times and the changes in these roles,
 precipitated by the influences of Western colonialism. The course also assesses how American Indian women have
-4
 
 crossed cultural boundaries and influenced non-tribal communities through their activism and traditionalism. This
 course is cross-listed with women’s studies.
@@ -197,7 +193,6 @@ Prerequisite(s): None
 AIS397
 Internship
 2 Semester Credits
-5
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -239,7 +234,6 @@ Core Curriculum Component: Keystone
 Prerequisite(s): None
 AIS495
 Topics
-6
 
 4 Semester Credits
 Individual courses designed to investigate specific topics such as Minnesota Indians, Contemporary Indigenous Issues of
@@ -279,7 +273,6 @@ Topics in Anthropology
 Core Curriculum Component: None
 Prerequisite(s): None
 
-7
 
 ART – Art & Design
 ART100
@@ -318,7 +311,6 @@ Drawing
 4 Semester Credits
 Introduction to foundational drawing from direct observation, memory, and reference. Traditional and experimental
 media and methods are explored to develop technical and formal skills in support of individual expression.
-8
 
 Core Curriculum Component: Fine Arts
 Prerequisite(s): None
@@ -359,7 +351,6 @@ Graphic Design Production: Photoshop
 1 Semester Credits
 This introductory course focuses on some of the basic features of the most current version of Adobe Photoshop so that
 the student can navigate the software environment and use Photoshop tools to work with photographic images. Focus is
-9
 
 placed on hands-on activities that demonstrate how these techniques can be used in combination to create innovative
 visual effects.
@@ -401,7 +392,6 @@ introduce students to documentary work that will be presented as portfolio to a 
 35mm single lens reflex camera.
 Core Curriculum Component: Fine Arts
 Prerequisite(s): None
-10
 
 ART199
 Internship
@@ -442,7 +432,6 @@ and will become familiar with design software to execute their designs.
 Core Curriculum Component: Fine Arts
 Prerequisite(s): None
 ART221
-11
 
 Sculpture I
 4 Semester Credits
@@ -483,7 +472,6 @@ collaboration. Students critically analyze works of art produced by themselves a
 they will articulate different theories of aesthetics.
 Core Curriculum Component: Fine Arts
 Prerequisite(s): None
-12
 
 ART240
 Art History Survey
@@ -523,7 +511,6 @@ ART250
 Ceramics I
 4 Semester Credits
 
-13
 
 An introduction to the making of pottery with an emphasis on handbuilding and throwing techniques combined with
 theory, concept, and form.
@@ -565,7 +552,6 @@ Prerequisite(s): 1 of ENL111(Effective Writing), ENL112(Advanced Effective Writi
 Liberating Letters), WPL(Writing Placement Level)
 ART299
 Directed Study
-14
 
 4 Semester Credits
 Core Curriculum Component: None
@@ -606,7 +592,6 @@ Prerequisite(s): ART124(Graphic Design Production: InDesign) *concurrent registr
 Design Production: HTML/CSS) *concurrent registration is acceptable*; ART202(Typography)
 ART322
 Plein Air Sketching II
-15
 
 4 Semester Credits
 Advanced study of drawing en plein air emphasizes creating a sketchbook outside on location to explore advanced
@@ -648,7 +633,6 @@ series of lectures, demonstrations, projects, critiques, and guest presenters, s
 photography using digital technology within the fine arts context. Students will also spend time shooting assignments,
 working in the computer lab, attending exhibitions, reading the text, and writing.
 Core Curriculum Component: None
-16
 
 Prerequisite(s): ART133(Introduction to Digital Photography)
 ART340
@@ -689,7 +673,6 @@ American women.
 Core Curriculum Component: None
 Prerequisite(s): 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing),
 HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level)
-17
 
 ART355
 Painting II
@@ -729,7 +712,6 @@ ART385
 Prehistoric and Ancient Art
 4 Semester Credits
 
-18
 
 The art of the Ice Age through the Roman period to the fourth century A.D.
 Core Curriculum Component: None
@@ -769,7 +751,6 @@ spanning from pre-European contact into the present. Students will meet Native a
 American art galleries and exhibitions, and learn about the cultural, social, and political context surrounding Native
 American art. ART390 is open to art history students only.
 Core Curriculum Component: None
-19
 
 Prerequisite(s): 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing),
 HON111(Effective Writing for Liberating Letters); ART240(Art History Survey)
@@ -810,7 +791,6 @@ intense, collaborative, project-based approach, this class explores the practice
 components of managing creative projects. Students will extend their learning beyond the classroom and work with
 community partners to create a variety of design projects. Emphasis is placed on cultivating the student's personal
 interests and abilities, editing and refining the range and quality of portfolio work.
-20
 
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): ART315(Web Design II), ART326(Design Studio II)
@@ -850,7 +830,6 @@ hard-of-hearing people.
 Core Curriculum Component: Modern Language 1
 Prerequisite(s): None
 ASL102
-21
 
 Beginning American Sign Language II
 4 Semester Credits
@@ -890,7 +869,6 @@ Prerequisite(s): AUGEX3(Augsburg Experience, Non-credit Internship)
 AUGEX4
 Augsburg Experience - Work Connections
 0 Semester Credits
-22
 
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): AUGEX4(Augsburg Experience, Work Connections)
@@ -930,7 +908,6 @@ Human Anatomy and Physiology Lab
 Core Curriculum Component: Natural Sciences and Mathematics (Lab)
 Prerequisite(s): BIO103(Human Anatomy and Physiology) *concurrent registration is required*
 BIO118
-23
 
 Environmental Biology
 4 Semester Credits
@@ -971,7 +948,6 @@ Core Curriculum Component: None
 Prerequisite(s): BIO151(Introductory Biology) *concurrent registration is required*, CONSENT(Consent of Instructor)
 BIO151
 Introductory Biology
-24
 
 4 Semester Credits
 First of a two-semester sequence. An introduction to biology for science majors, including cell and molecular biology,
@@ -1011,7 +987,6 @@ is required. (Three hours lecture, four hours laboratory.)
 Core Curriculum Component: None
 Prerequisite(s): 1 of CHM106(Principles of Chemistry II), CHM116(General Chemistry II)
 BIO253L
-25
 
 Introductory Cellular Biology Lab
 0 Semester Credits
@@ -1051,7 +1026,6 @@ A study of the invertebrate animals stressing classification, morphology, behavi
 Concurrent registration in BIO351L is required. (Three hours of lecture, four hours of laboratory.)
 Core Curriculum Component: None
 Prerequisite(s): BIO151(Introductory Biology), BIO152(Evolution, Ecology and Diversity)
-26
 
 BIO351L
 Invertebrate Zoology Lab
@@ -1091,7 +1065,6 @@ The course addresses the chemical structure and function of the major biological
 protein structure and function, enzyme mechanisms, thermodynamics, intermediary metabolism, and metabolic
 regulation. Concurrent registration in BIO369L is required. (Three hours lecture, four hours laboratory.)
 Core Curriculum Component: None
-27
 
 Prerequisite(s): 1 of CHM251(Organic Chemistry I), CHM351(Organic Chemistry I); 1 of CHM251L(Organic Chemistry I
 Lab), CHM351L(Organic Chemistry I Lab); 1 of MAT114(Precalculus), MAT145(Calculus I), MAT163(Introductory
@@ -1131,7 +1104,6 @@ stressors on plant physiology will be discussed. Concurrent registration in BIO4
 Core Curriculum Component: None
 Prerequisite(s): BIO253(Introductory Cellular Biology)
 BIO440L
-28
 
 Plant Physiology Lab
 0 Semester Credits
@@ -1172,7 +1144,6 @@ morphological changes that occur during development. Additional topics to be cov
 developmental biology (evo devo), teratology, stem cells, regeneration, and cell death. Concurrent registration in
 BIO474L is required. (Three hours of lecture, four hours of laboratory.)
 Core Curriculum Component: None
-29
 
 Prerequisite(s): BIO253(Introductory Cellular Biology)
 BIO474L
@@ -1212,7 +1183,6 @@ Ecology
 A study of interactions between organisms and the biotic and abiotic environment. Topics include physiological ecology,
 energy flow, nutrient cycling, a survey of biomes, population and community ecology, and conservation. Concurrent
 registration in BIO481L is required. (Three hours lecture, four hours laboratory, some Saturday field trips.)
-30
 
 Core Curriculum Component: None
 Prerequisite(s): 1 of CHM106(Principles of Chemistry II), CHM116(General Chemistry II); 1 of MAT114(Precalculus),
@@ -1253,7 +1223,6 @@ implication and ramifications are explored, including the topics of the vocation
 and science, and moral, ethical, and societal challenges faced by scientists. For senior biology majors.
 Core Curriculum Component: Keystone
 Prerequisite(s): None
-31
 
 BIO495
 Special Topics in Biology
@@ -1292,7 +1261,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 BUS254
 Entrepreneurship
-32
 
 4 Semester Credits
 The process of transforming an idea into an organization that can market this idea successfully. Examines the
@@ -1332,7 +1300,6 @@ This course views international business from a global perspective, including vi
 perspectives of foreign governments. Each topic is supported with real-life case studies.
 Core Curriculum Component: None
 
-33
 
 Prerequisite(s): 1 of ECO112(Principles of Macroeconomics), ECO113(Principles of Microeconomics); 1 of
 ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing), HON111(Effective Writing
@@ -1372,7 +1339,6 @@ Global Business Management: Mexico and Emerging Markets - Mexico
 4 Semester Credits
 Core Curriculum Component: None
 
-34
 
 Prerequisite(s): 1 of ECO112(Principles of Macroeconomics), ECO113(Principles of Microeconomics); 1 of
 BUS200(Exploring Business as a Vocation), BUS242(Principles of Management)
@@ -1413,7 +1379,6 @@ Designing Your Future: Majors, Careers, and a Life of Joy
 Welcome to Designing Your Future. This course will borrow concepts from design thinking to inspire curiosity in students
 about majors, careers, and a life of joy. Through the iterative processes of turning inward (self-exploration) and turning
 outward (major and career exploration), students will be encouraged to generate and embrace multiple answers to
-35
 
 complex questions about their own future. The instructor and students will engage in a variety of techniques and
 resources intended to create an active, meaningful and lasting learning experiences. Techniques utilized will include
@@ -1453,7 +1418,6 @@ Internship
 Core Curriculum Component: None
 Prerequisite(s): None
 CCS495
-36
 
 Topics
 4 Semester Credits
@@ -1492,7 +1456,6 @@ General Chemistry I Lab
 1 Semester Credits
 Core Curriculum Component: Natural Sciences and Mathematics (Lab)
 Prerequisite(s): CHM115(General Chemistry I) *concurrent registration is acceptable*
-37
 
 CHM116
 General Chemistry II
@@ -1532,7 +1495,6 @@ Organic Chemistry II
 Organic functional groups are analyzed in multi-step synthesis. Retro-synthetic analysis is emphasized and practiced
 including oxidations, reductions, substitutions, eliminations, and aldol reactions. (Spring)
 Core Curriculum Component: None
-38
 
 Prerequisite(s): 1 of CHM251(Organic Chemistry I), CHM351(Organic Chemistry I); 1 of CHM251L(Organic Chemistry I
 Lab), CHM351L(Organic Chemistry I Lab)
@@ -1572,7 +1534,6 @@ CHM368
 Physical Chemistry: Microscopic Theory
 4 Semester Credits
 
-39
 
 Studies fundamental microscopic theories and concepts of physical chemistry with a focus on quantum mechanics,
 molecular structure, spectroscopy, and statistical mechanics. (Spring)
@@ -1614,7 +1575,6 @@ Analytical Chemistry); 1 of CHM280L(Quantitative Analytical Chemistry Lab), CHM3
 Lab)
 CHM440
 Advanced Synthesis Lab
-40
 
 2 Semester Credits
 A comprehensive lab course that provides experiences in advanced synthetic techniques in both organic and inorganic
@@ -1657,7 +1617,6 @@ Advanced Inorganic Chemistry
 Study of inorganic bonding and structural models, and a survey of inorganic substances and their reactions. Reactivity
 and bonding in coordination, cluster, and organometallic compounds are considered. (Spring)
 Core Curriculum Component: None
-41
 
 Prerequisite(s): 1 of CHM252(Organic Chemistry II), CHM352(Organic Chemistry II); 1 of CHM252L(Organic Chemistry II
 Lab), CHM352L(Organic Chemistry II Lab); 1 of CHM362(Chemical Thermodynamics, Statistical Mechanics, and Kinetics),
@@ -1697,7 +1656,6 @@ Core Curriculum Component: Augsburg Experience
 Prerequisite(s): CONSENT(Consent of Instructor)
 CHM499
 Independent Study/Research
-42
 
 4 Semester Credits
 Core Curriculum Component: Augsburg Experience
@@ -1737,7 +1695,6 @@ Multimedia Production Practicum
 1 Semester Credits
 The practicum course is for any student who wishes to gain credit for significant contributions to a specific campus
 organization while developing specific communication skills.
-43
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -1779,7 +1736,6 @@ Prerequisite(s): None
 COM199
 Internship
 4 Semester Credits
-44
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -1820,7 +1776,6 @@ COM280
 Introduction to Communication Studies
 4 Semester Credits
 
-45
 
 An introductory survey course designed to acquaint students with the world of ideas that serves as the foundation for
 the field of communication studies.
@@ -1861,7 +1816,6 @@ Course explores the skills, research and forms of communication common in busine
 will learn how to produce effective speeches, conduct interviews, run meetings, and create written professional
 communication. Emphasis on specialized communication skills, including: interviewing, professional networking, sales
 speeches, persuasive policy speeches, business concept or proposal pitches, leading business meetings, etc. Also
-46
 
 includes common uses of social media research, organizational communication theory, power and communication
 structures, and the styles and techniques of effective management/leadership.
@@ -1903,7 +1857,6 @@ Prerequisite(s): 1 of COM111(Public Speaking), COM112(Contest Public Speaking), 
 Public Speaking); 1 of MAT105(Applied Algebra), MPL(Math Placement Level 3); COM280(Introduction to
 Communication Studies), COM281(Research Methods)
 COM355
-47
 
 Small Group Communication
 4 Semester Credits
@@ -1942,7 +1895,6 @@ Prerequisite(s): COM281(Research Methods)
 COM415
 Advanced Critical Media Studies
 4 Semester Credits
-48
 
 This course explores the role that various media, such as film, television, and the internet play in shaping and influencing
 society. Topics covered include theories of influence and effects, representations of gender, race, and class, ownership
@@ -1981,7 +1933,6 @@ Independent Study
 Core Curriculum Component: None
 Prerequisite(s): None
 
-49
 
 CSC – Computer Science
 CSC160
@@ -2020,7 +1971,6 @@ CSC210L
 Data Structures Lab
 0 Semester Credits
 Core Curriculum Component: None
-50
 
 Prerequisite(s): CSC210(Data Structures) *concurrent registration is required*
 CSC240
@@ -2060,7 +2010,6 @@ Statistics), MAT164(Introductory Statistics for STEM), MIS379(Quantitative Metho
 CSC352(Database Management and Design), MIS270(Data Management for Business)
 CSC320
 Algorithms
-51
 
 4 Semester Credits
 A systematic study of algorithms and their complexity, including searching and sorting algorithms, mathematical
@@ -2102,7 +2051,6 @@ Core Curriculum Component: None
 Prerequisite(s): 1 of MAT114(Precalculus), MPL(Math Placement Group 4); 1 of MAT171(Discrete Mathematics For
 Computing), MAT271(Discrete Mathematical Structures); CSC210(Data Structures), CSC320(Algorithms)
 CSC385
-52
 
 Formal Logic and Computation Theory
 4 Semester Credits
@@ -2141,7 +2089,6 @@ CSC431
 Introduction to A I Robotics
 4 Semester Credits
 Robot components, robotic paradigms, mobile robots, task planning, sensing, sensor fusion, basic control concepts.
-53
 
 Core Curriculum Component: None
 Prerequisite(s): 1 of MAT114(Precalculus), MPL(Math Placement Group 4); CSC210(Data Structures)
@@ -2181,7 +2128,6 @@ Independent Study
 4 Semester Credits
 Core Curriculum Component: None
 Prerequisite(s): None
-54
 
 DAK - Dakota
 DAK111
@@ -2221,7 +2167,6 @@ Internship
 4 Semester Credits
 Core Curriculum Component: None
 Prerequisite(s): None
-55
 
 ECO299
 Directed Study
@@ -2261,7 +2206,6 @@ Prerequisite(s): 1 of ECO112(Principles of Macroeconomics), ECO113(Principles of
 MAT105(Applied Algebra), MPL(Math Placement Level 3)
 ECO350
 Labor Economics
-56
 
 4 Semester Credits
 Analysis of labor markets, labor as a factor of production, determination of collective bargaining, labor legislation, and
@@ -2301,7 +2245,6 @@ ECO399
 Internship
 4 Semester Credits
 Core Curriculum Component: Augsburg Experience
-57
 
 Prerequisite(s): None
 ECO416
@@ -2342,7 +2285,6 @@ Topics for Paraprofessionals
 Core Curriculum Component: None
 Prerequisite(s): None
 ECS505CE
-58
 
 Behavior Management: ENVOY Training
 1 Semester Credits
@@ -2381,7 +2323,6 @@ ECS542CE
 Paideia Onsite Training
 2 Semester Credits
 Core Curriculum Component: None
-59
 
 Prerequisite(s): None
 ECS543CE
@@ -2420,7 +2361,6 @@ Topics AP Not Approved 1stand2nd ti-Variable credit
 2 Semester Credits
 Core Curriculum Component: None
 Prerequisite(s): None
-60
 
 ECS598CE
 Independent Study/Research
@@ -2462,7 +2402,6 @@ prejudice, discrimination, and stereotypes impact us personally, as well as how 
 communities. Also addressed in this course is the Minnesota Standard of Effective Practice 3.G: Understand the cultural
 content, worldview, and concepts that comprise Minnesota-based American Indian tribal government, history, language,
 and culture.
-61
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -2502,7 +2441,6 @@ applications of theoretical constructs.
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): None
 EDC330
-62
 
 Building the Public Good: Public Achievement and Organizing: Seminar I
 1 Semester Credits
@@ -2545,7 +2483,6 @@ This course presents an examination and comparison of selected Western and non-W
 as an investigation of possible careers in international education.
 Core Curriculum Component: None
 
-63
 
 Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Graduate Education Department
 Admission)
@@ -2585,7 +2522,6 @@ EDC483
 Student Teaching: Initial License in PE, Music, Art, or ESL
 12 Semester Credits
 Full-time, supervised classroom experience. Required for licensure.
-64
 
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): STUTEACH12(Student Teaching, 12 Credits)
@@ -2625,7 +2561,6 @@ Admission)
 EDC501
 Graduate Pro-Seminar
 1 Semester Credits
-65
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -2665,7 +2600,6 @@ as an investigation of possible careers in international education.
 Core Curriculum Component: None
 Prerequisite(s): GRADEDADMIT(Graduate Education Department Admission)
 EDC566
-66
 
 Diversity/Minnesota American Indians
 3 Semester Credits
@@ -2708,7 +2642,6 @@ EDC588
 Topics
 2 Semester Credits
 Core Curriculum Component: None
-67
 
 Prerequisite(s): GRADEDADMIT(Graduate Education Department Admission)
 EDC590
@@ -2748,7 +2681,6 @@ Independent Study
 3 Semester Credits
 Core Curriculum Component: None
 Prerequisite(s): GRADEDADMIT(Graduate Education Department Admission)
-68
 
 EDC998
 Graduate Program Active Status
@@ -2788,7 +2720,6 @@ Elementary Education Earth Science
 This course is designed to provide hands-on investigations that model modern inquiry learning and teaching strategies. It
 meets the basic earth science subject matter standards for initial licensure. This is a content intensive course. Plan to
 spend much time outside of class reading and completing assignments.
-69
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -2828,7 +2759,6 @@ EED311
 K-6 Methods: Health
 1 Semester Credits
 Examination and preparation of materials and resources for health at the kindergarten and elementary levels.
-70
 
 Core Curriculum Component: None
 Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Graduate Education Department
@@ -2870,7 +2800,6 @@ Core Curriculum Component: None
 Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Graduate Education Department
 Admission)
 EED336
-71
 
 Advanced Literacy Methods
 2 Semester Credits
@@ -2912,7 +2841,6 @@ constructs to an elementary classroom. Field service in a P-6 classroom required
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Graduate Education Department
 Admission)
-72
 
 EED370
 K-6 Methods: Social Studies/Thematics
@@ -2954,7 +2882,6 @@ Core Curriculum Component: None
 Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Graduate Education Department
 Admission); 1 of STUTEACH12(Student Teaching, 12 Credits), STUTEACH4(Student Teaching, 4 Credits),
 STUTEACH8(Student Teaching, 8 Credits), STUTEACHEX(Student Teaching, Extended Experience)
-73
 
 EED495
 Topics in Education
@@ -2995,7 +2922,6 @@ Department Admission), GRADEDADMIT(Graduate Education Department Admission); EED
 enrollment) *concurrent registration is required*
 EED550
 K-6 Methods: Mathematics
-74
 
 3 Semester Credits
 Examination and preparation of materials and resources for mathematics at the kindergarten and elementary levels.
@@ -3036,7 +2962,6 @@ Prerequisite(s): WPL(Writing Placement Level)
 ENL111
 Effective Writing
 4 Semester Credits
-75
 
 Emphasis is on exposition, including learning research techniques, and writing critical reviews. Attention is given to
 increasing students’ effectiveness in choosing, organizing, and developing topics; thinking critically; and revising for
@@ -3078,7 +3003,6 @@ Prerequisite(s): 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL1
 HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level)
 ENL221
 Intermediate Expository Writing About the Arts
-76
 
 4 Semester Credits
 A variant of English 220, this course also builds on the methods of Effective Writing, but in this version students work on
@@ -3119,7 +3043,6 @@ Core Curriculum Component: None
 Prerequisite(s): 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing),
 HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level)
 ENL229
-77
 
 Screenwriting
 4 Semester Credits
@@ -3162,7 +3085,6 @@ HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level)
 ENL250
 American Voices
 4 Semester Credits
-78
 
 American Literature is made up of many voices that are distinct from one another in any number of ways. This course
 foregrounds those voices that are usually identified by dint of ethnic rubrics. In each iteration, a specific ethnic literature
@@ -3206,7 +3128,6 @@ ENL112(Advanced Effective Writing) *concurrent registration is acceptable*, HON1
 Letters) *concurrent registration is acceptable*, WPL(Writing Placement Level)
 ENL270
 Themes
-79
 
 4 Semester Credits
 This course traces a specific theme through changing historical, literary, and cultural contexts. Course subjects may
@@ -3249,7 +3170,6 @@ Prerequisite(s): None
 ENL299
 Directed Study
 4 Semester Credits
-80
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -3290,7 +3210,6 @@ Creative Non-Fiction
 In this writing workshop, students develop a portfolio of creative works in the “fourth genre,” which may include
 memoir; personal essays; flash nonfiction; researched feature stories; mixed media, hypertext, and fragmented
 nonfiction; and lyric essays.
-81
 
 Core Curriculum Component: None
 Prerequisite(s): 1 of ENL220(Intermediate Expository Writing), ENL221(Intermediate Expository Writing About the Arts),
@@ -3333,7 +3252,6 @@ gain a better understanding of the aesthetics, craft, and form of screenwriting.
 Core Curriculum Component: None
 Prerequisite(s): ENL229(Screenwriting)
 ENL330
-82
 
 Shakespeare
 4 Semester Credits
@@ -3377,7 +3295,6 @@ the context of poetic predecessors and influences (Burns, Cowper, Smith) and con
 including Austen, Wollstonecraft, and Scott.
 Core Curriculum Component: None
 
-83
 
 Prerequisite(s): 1 of ENL220(Intermediate Expository Writing), ENL221(Intermediate Expository Writing About the Arts),
 ENL240(Introduction to Literary Study), ENL241(Introduction to Cinema Art), ENL250(American Voices),
@@ -3421,7 +3338,6 @@ of Theater)
 ENL339
 Modern British and Irish Writers
 4 Semester Credits
-84
 
 Writers of the first half of the 20th century are surveyed, with attention paid to their contribution to modernism,
 experimentation, and literary form. Virginia Woolf, William Butler Yeats, James Joyce, Henry Green, D.H. Lawrence,
@@ -3466,7 +3382,6 @@ ENL240(Introduction to Literary Study), ENL241(Introduction to Cinema Art), ENL2
 ENL251(Introduction to African American Literature), ENL255(American Indian Literature), ENL260(Authors),
 ENL270(Themes), ENL280(Genres), ENL290(Explorations in Language and Theory)
 ENL353
-85
 
 American Literature from 1945
 4 Semester Credits
@@ -3510,7 +3425,6 @@ Readings range from O’Neill and Treadwell to Shanley and Parks.
 Core Curriculum Component: None
 Prerequisite(s): 1 of ENL220(Intermediate Expository Writing), ENL221(Intermediate Expository Writing About the Arts),
 ENL240(Introduction to Literary Study), ENL241(Introduction to Cinema Art), ENL250(American Voices),
-86
 
 ENL251(Introduction to African American Literature), ENL255(American Indian Literature), ENL260(Authors),
 ENL270(Themes), ENL280(Genres), ENL290(Explorations in Language and Theory), THR250(Script Analysis: Foundations
@@ -3554,7 +3468,6 @@ Contemporary Post Colonial Fiction
 This examination of contemporary world fiction includes work by authors from Latin America, Africa, Asia, and the
 Middle East, and fiction written by indigenous authors worldwide. The course explores novels in relation to language,
 
-87
 
 culture, and gender in an age of globalization and fragmented nationalisms, considering fictions in their literary, cultural,
 and social contexts. Cross-listed with Women’s Studies.
@@ -3599,7 +3512,6 @@ Core Curriculum Component: None
 Prerequisite(s): 1 of ENL220(Intermediate Expository Writing), ENL221(Intermediate Expository Writing About the Arts),
 ENL240(Introduction to Literary Study), ENL241(Introduction to Cinema Art), ENL250(American Voices),
 
-88
 
 ENL255(American Indian Literature), ENL260(Authors), ENL270(Themes), ENL280(Genres), ENL290(Explorations in
 Language and Theory)
@@ -3643,7 +3555,6 @@ range of linguistic tasks. Recommended for licensure and potential graduate stud
 Core Curriculum Component: None
 Prerequisite(s): 1 of ENL220(Intermediate Expository Writing), ENL221(Intermediate Expository Writing About the Arts),
 ENL240(Introduction to Literary Study), ENL241(Introduction to Cinema Art), ENL250(American Voices),
-89
 
 ENL255(American Indian Literature), ENL260(Authors), ENL270(Themes), ENL280(Genres), ENL290(Explorations in
 Language and Theory)
@@ -3685,7 +3596,6 @@ Victoria), ENL337(The British Novel), ENL338(British and Commonwealth Drama), EN
 Writers), ENL350(Readings in African American Literature), ENL351(19th Century American Literature),
 ENL352(American Literature from 1900 to 1945), ENL353(American Literature from 1945), ENL354(Contemporary
 American Poetry), ENL355(Themes in American Indian Literature), ENL358(Readings in American Drama), ENL360(The
-90
 
 Classical Tradition), ENL361(The Medieval World), ENL362(Renaissance to Modern Literature), ENL365(Contemporary
 Post Colonial Fiction), ENL367(Women and Fiction), ENL368(Readings in World Dramas), ENL371(History of Cinema),
@@ -3731,7 +3641,6 @@ American Poetry), ENL355(Themes in American Indian Literature), ENL358(Readings 
 Classical Tradition), ENL361(The Medieval World), ENL362(Renaissance to Modern Literature), ENL365(Contemporary
 Post Colonial Fiction), ENL367(Women and Fiction), ENL368(Readings in World Dramas), ENL371(History of Cinema),
 
-91
 
 ENL380(Introduction to the English Language), ENL385(Language and Power), ENL390(Media Ethics and Theory),
 ENL394(Composition Theory and Practice)
@@ -3772,7 +3681,6 @@ The first of a two-semester practicum in the art, craft, and business of book pu
 three areas of study: book-publishing overview, acquisitions, and editing.
 Core Curriculum Component: None
 
-92
 
 Prerequisite(s): 1 of ENL510(Residency in Creative Writing I), ENL520(Residency in Creative Writing II),
 ENL530(Residency in Creative Writing III)
@@ -3816,7 +3724,6 @@ included. Three residencies required with varying focus depending on the candida
 or graduating student. The course is repeatable.
 Core Curriculum Component: None
 Prerequisite(s): None
-93
 
 ENL534
 Residency in Creative Writing: Screenwriting
@@ -3860,7 +3767,6 @@ by the student, in a virtual studio environment using electronic classroom and o
 analysis of canonical and contemporary readings in the field also required. Close attention to techniques chosen by
 writers, impact of those choices on work, and development of awareness of student’s own writing process. This course
 is repeatable.
-94
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -3904,7 +3810,6 @@ Studio experience. One-on-one creative work with a faculty mentor who guides the
 study of craft. Mentor provides written and oral commentary on creative work submitted monthly throughout the term
 by the student, in a virtual studio environment using electronic classroom and other communication tools. Creative
 analysis of canonical and contemporary readings in the field also required. Close attention to techniques chosen by
-95
 
 writers, impact of those choices on work, and development of awareness of student’s own writing process. This course
 is repeatable.
@@ -3946,7 +3851,6 @@ remotely, via internet, mail, and/or phone, under the guidance of a faculty ment
 Core Curriculum Component: None
 Prerequisite(s): CONSENT(MFA Director Approval)
 ENL550
-96
 
 Craft Paper: Screenwriting
 2 Semester Credits
@@ -3989,7 +3893,6 @@ Thesis: Nonfiction
 Taken with a paired course in Mentorship and Creative and Critical Reading, the thesis course represents the
 culmination of a student’s experience in the MFA program. At this time, a student completes and revises a book-length
 project worthy of publication under the guidance of a faculty mentor. Types of theses vary depending on a student’s
-97
 
 primary genre, but may include a novel, a collection of short stories or poems, a screenplay or play, a memoir, or a book
 of essays. If a student’s manuscript is not deemed ready by his or her mentor, the student will be asked to enroll in ENL
@@ -4034,7 +3937,6 @@ Core Curriculum Component: None
 Prerequisite(s): CONSENT(MFA Director Approval), ENL545(Corequisite for first registration in ENL557) *concurrent
 registration is required*
 ENL558
-98
 
 Thesis: Multi-Genre
 2 Semester Credits
@@ -4079,7 +3981,6 @@ analysis of canonical and contemporary readings in the field also required. Clos
 writers, impact of those choices on work, and development of awareness of student’s own writing process. This course
 is repeatable.
 Core Curriculum Component: None
-99
 
 Prerequisite(s): None
 ENL563
@@ -4123,7 +4024,6 @@ study of craft. Mentor provides written and oral commentary on creative work sub
 term by the student, in a virtual studio environment using electronic classroom and other communication tools. Creative
 analysis of canonical and contemporary readings in the field also required. Close attention to techniques chosen by
 
-100
 
 writers, impact of those choices on work, and development of awareness of student’s own writing process. This course
 is repeatable.
@@ -4165,7 +4065,6 @@ Core Curriculum Component: None
 Prerequisite(s): 1 of ENV100(Environmental Connections), ENV120(Environmental Science), POL241(Environmental and
 River Politics), SWK210(Environmental Justice and Social Change)
 ENV396
-101
 
 Internship
 4 Semester Credits
@@ -4205,7 +4104,6 @@ Independent Study
 4 Semester Credits
 Core Curriculum Component: None
 Prerequisite(s): None
-102
 
 ESE – Education
 ESE199
@@ -4245,7 +4143,6 @@ Admission)
 ESE310
 5-12 Methods: Social Studies
 3 Semester Credits
-103
 
 Introduction to the teaching of the social sciences in middle and high schools. Emphasis on instructional strategies and
 curriculum development. Middle school portion required in social studies is taught as ESE 311 Middle School Methods:
@@ -4289,7 +4186,6 @@ ESE331
 Middle School Methods: Mathematics
 2 Semester Credits
 
-104
 
 Introduction to the teaching of mathematics in middle and high schools. Emphasis on instructional strategies and
 curriculum development. Middle school portion required in mathematics taught concurrently as ESE 331 Middle School
@@ -4332,7 +4228,6 @@ and curriculum development. Required for communication arts/literature license.
 Core Curriculum Component: None
 Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Graduate Education Department
 Admission)
-105
 
 ESE360
 K-12 Methods: Visual Arts
@@ -4374,7 +4269,6 @@ Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Gradu
 Admission); 1 of STUTEACH12(Student Teaching, 12 Credits), STUTEACH4(Student Teaching, 4 Credits),
 STUTEACH8(Student Teaching, 8 Credits), STUTEACHEX(Student Teaching, Extended Experience)
 ESE498
-106
 
 Independent Study
 2 Semester Credits
@@ -4417,7 +4311,6 @@ This course provides examines the process of acquiring an additional language. M
 acquisition, the differences between first and second language acquisition, and recent work in neurolinguistics will be
 examined. The class is designed for people who plan to teach, thus attention will be paid to the implications of research
 for language instruction.
-107
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -4459,7 +4352,6 @@ This course provides an overview of procedures and instruments used in identifyi
 and national policies regarding ELL assessment will be covered. Current uses of standardized language proficiency tests
 and academic content tests will be discussed. The course also examines classroom and authentic assessment and seeks
 to build teacher skill in these areas.
-108
 
 Core Curriculum Component: None
 Prerequisite(s): 1 of ESL340(ESL Literacy), ESL520(ESL Literacy)
@@ -4501,7 +4393,6 @@ ESL510
 History and Structure of the English Language
 3 Semester Credits
 
-109
 
 This course provides a thorough study of English grammar. Intended for future ESL teachers, the course focuses on
 developing students’ ability to describe language and effectively teach language structures. The history and
@@ -4542,7 +4433,6 @@ Prerequisite(s): None
 FAR – Farsi
 FAR111
 Beginning Farsi I
-110
 
 4 Semester Credits
 An introductory sequence in Basic Modern Persian (Farsi). Aims to develop communicative skills in understanding,
@@ -4583,7 +4473,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 FIN331
 
-111
 
 Financial Management
 4 Semester Credits
@@ -4624,7 +4513,6 @@ Prerequisite(s): 1 of BUS331(Financial Management), FIN331(Financial Management)
 
 FLM – Film
 FLM110
-112
 
 Film Production Practicum
 1 Semester Credits
@@ -4665,7 +4553,6 @@ each member of the class, giving detailed critical analysis and engaging in disc
 Core Curriculum Component: None
 Prerequisite(s): None
 FLM230
-113
 
 Scenic Painting: Paint for Stage, Film and Faux Application
 4 Semester Credits
@@ -4706,7 +4593,6 @@ Core Curriculum Component: None
 Prerequisite(s): FLM216(Film Production I)
 FLM348
 Intermediate Video Production
-114
 
 4 Semester Credits
 This course explores the potential of digital cinema. Building on the lessons learned in COM 247, emphasis will be placed
@@ -4746,7 +4632,6 @@ Junior of senior standing required
 Core Curriculum Component: None
 Prerequisite(s): None
 FLM420
-115
 
 Issues in Contemporary Cinema
 4 Semester Credits
@@ -4787,7 +4672,6 @@ Core Curriculum Component: Modern Language 1
 Prerequisite(s): None
 FRE112
 Beginning French II
-116
 
 4 Semester Credits
 Aims to develop communication skills of understanding, speaking, reading, and writing. Through conversations,
@@ -4826,7 +4710,6 @@ Prerequisite(s): None
 FRE311
 French Conversation and Composition
 4 Semester Credits
-117
 
 Explores topics of current interest in both oral and written form to build fluency, accuracy, and facility of expression in
 French. Emphasis on vocabulary enrichment, grammatical refinements, effective organization of ideas. A prerequisite to
@@ -4867,7 +4750,6 @@ FRE399
 Internship
 4 Semester Credits
 Core Curriculum Component: Augsburg Experience
-118
 
 Prerequisite(s): None
 FRE411
@@ -4908,7 +4790,6 @@ Goals: ability to read extended narratives in simple German, insights into Germa
 conversations.
 Core Curriculum Component: Modern Language 2
 Prerequisite(s): 1 of GER111(Beginning German I), GERLANG(German Language Placement)
-119
 
 GER199
 Internship
@@ -4948,7 +4829,6 @@ Aims at developing facility in the use of grammatical structures, vocabulary, an
 colloquial German. Intensive practice in speaking is supplemented with exercises in written composition.
 Core Curriculum Component: None
 Prerequisite(s): 1 of GER212(Intermediate German II), GERLANG(German Language Placement)
-120
 
 GER331
 German Civilization and Culture I
@@ -4988,7 +4868,6 @@ Core Curriculum Component: Augsburg Experience
 Prerequisite(s): None
 GER411
 Advanced German Conversation and Composition
-121
 
 4 Semester Credits
 Aims at developing and refining the student’s use of German as a vehicle for expressing ideas and opinions. Emphasis on
@@ -5028,7 +4907,6 @@ GST – General Studies
 GST009
 Augsburg Experience Internship
 0 Semester Credits
-122
 
 A transcript notation is given for the academic learning inherent in an approved not-for-credit/internship/work
 experience. Reflection activities and work-learning evaluations are conducted by the Center for Service, Work, and
@@ -5070,7 +4948,6 @@ Quantitative Reasoning/Statistical Literacy
 This course focuses on critical thinking about statistics and its use as evidence in arguments, with an emphasis on
 interpretation, evaluation, communication, and analysis of statistically-based arguments. Topics include association,
 causation, observational studies, experiments, risk, confounding, bias and chance. Common techniques involving
-123
 
 statistical opportunism, conditional reasoning using English to describe and compare rates and percentages presented in
 tables and graphs, and the use of standardization to take into account the influence of confounders are reviewed.
@@ -5111,7 +4988,6 @@ An analysis of the primary civilizations in the Near East, the classical world o
 Europe into the 13th century.
 Core Curriculum Component: Humanities
 Prerequisite(s): None
-124
 
 HIS102
 The Shaping of Western Civilization
@@ -5152,7 +5028,6 @@ United States came to prominence despite internal dissent and violence. Themes i
 identity, political system, and economy, slavery, expansion, and empire-building, regional differences, the Civil War and
 its aftermath, and industrialization.
 Core Curriculum Component: Humanities
-125
 
 Prerequisite(s): None
 HIS122
@@ -5194,7 +5069,6 @@ Modern South Asia
 4 Semester Credits
 This course explores the processes of indigenous political fragmentation, colonialism, nationalism, de-colonization, and
 independence in the area now politically known as India, Pakistan, and Bangladesh.
-126
 
 Core Curriculum Component: Humanities
 Prerequisite(s): None
@@ -5236,7 +5110,6 @@ HIS234
 Minnesota History
 4 Semester Credits
 
-127
 
 This course examines the racial, ethnic, political, and economic history of Minnesota, from the earliest inhabitants
 (Ojibwe and Dakota), through the period of British and French exploration, and to the development of statehood.
@@ -5277,7 +5150,6 @@ The Designed Environment
 This course addresses the designed environment, investigating architecture, landscape architecture, and urban design.
 Class sessions consist almost exclusively of extensive walking tours and site visits to prominent examples of design
 excellence.
-128
 
 Core Curriculum Component: Engaging Minneapolis, Humanities
 Prerequisite(s): None
@@ -5318,7 +5190,6 @@ Topics in Women's History
 Exploration of selected topics in women’s history not regularly examined in other departmental offerings. The specific
 topic to be offered will be announced prior to registration.
 Core Curriculum Component: None
-129
 
 Prerequisite(s): None
 HIS316
@@ -5359,7 +5230,6 @@ History of United States Foreign Relations
 A survey of United States foreign relations from the American Revolution through the Cold War, emphasizing changing
 definitions of war and peace, tensions between internationalism and isolationism, and the emergence of the United
 States as an economic and military power.
-130
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -5399,7 +5269,6 @@ Namibia and South Africa: A Historical Perspective
 A survey of Namibia and South Africa including the experience of indigenous peoples, the impact of South African
 occupation, the war for independence, and the roots of apartheid and its institutionalization.
 Core Curriculum Component: None
-131
 
 Prerequisite(s): None
 HIS348
@@ -5441,7 +5310,6 @@ Prerequisite(s): None
 HIS354
 Modern Britain and Ireland
 4 Semester Credits
-132
 
 This course will take a distinctively interdisciplinary approach (sources will include literature, film, music, and artwork) to
 explore a period of dramatic change in British politics, society, culture, and international status.
@@ -5484,7 +5352,6 @@ Hellenistic Greece and Rome
 This course examines the history of Hellenistic Greece and Rome from c. 800 BC to 476 AD, and uses a variety of written
 and visual sources in an attempt to understand these societies. In addition to the “traditional” political narrative, it also
 looks at social, economic, and cultural aspects of life in antiquity.
-133
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -5526,7 +5393,6 @@ REL331(Foundations in Bible and Theology)
 HIS397
 Internship
 2 Semester Credits
-134
 
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): None
@@ -5566,7 +5432,6 @@ Prerequisite(s): None
 HIS474
 World and the West
 4 Semester Credits
-135
 
 Europe’s discovery of the rest of the world, cultural interaction and conflict, the building of European empires in Asia
 and the Americas, and the breakdown of these imperial systems at the end of the 18th century.
@@ -5607,7 +5472,6 @@ Religion, Vocation, and the Search for Meaning I
 Honors section of REL100. Some students (e.g., some science majors) may need to defer the course and take HON100 in
 another term.
 Core Curriculum Component: None
-136
 
 Prerequisite(s): None
 HON111
@@ -5648,7 +5512,6 @@ Religion, Vocation, and the Search for Meaning II
 4 Semester Credits
 Honors version of REL 200. See REL 200 for content and requirements.
 Core Curriculum Component: Search for Meaning II
-137
 
 Prerequisite(s): 1 of HON100(Christian Vocation & Search for Meaning I), HON120(The Scholar Citizen); 1 of
 HON100(Christian Vocation & Search for Meaning I), REL100(Christian Vocation and the Search for Meaning I)
@@ -5689,7 +5552,6 @@ Core Curriculum Component: Natural Sciences and Mathematics (Lab)
 Prerequisite(s): 1 of HON100(Christian Vocation & Search for Meaning I), HON120(The Scholar Citizen);
 HON240(Science, Technology, and Citizenship) *concurrent registration is required*
 HON250
-138
 
 The Social Scientist
 4 Semester Credits
@@ -5730,7 +5592,6 @@ May take many forms as determined by the student and faculty creating the learni
 credits, and may use traditional or P/N grading options).
 Core Curriculum Component: None
 Prerequisite(s): None
-139
 
 HON450
 Augsburg Honors Review: Research Thesis Requirement
@@ -5770,7 +5631,6 @@ Independent Study
 Core Curriculum Component: None
 Prerequisite(s): None
 
-140
 
 HPE – Health, Physical Education and Exercise Science
 HPE104
@@ -5810,7 +5670,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 HPE205
 Introduction to Health, Physical Education, and Exercise Science
-141
 
 2 Semester Credits
 An introduction to the professional field of health, physical education, and exercise science. Includes history, current
@@ -5851,7 +5710,6 @@ Prerequisite(s): HPE114(Health and Safety Education)
 HPE275L
 Prevention and Care of Athletic Injuries Lab
 0 Semester Credits
-142
 
 Core Curriculum Component: None
 Prerequisite(s): HPE275(Prevention and Care of Athletic Injuries) *concurrent registration is required*
@@ -5893,7 +5751,6 @@ Stress Management
 This course introduces students to concepts related to stress and stress management. Along with the study of the role of
 stress in dysfunction of the human body, individual assessments and reflection are used to assist students in developing
 a greater understanding of the role of stress in their life. Individual stress management plans will be constructed. (Fall)
-143
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -5934,7 +5791,6 @@ HPE334
 2 Semester Credits
 Theory and practice in skills and teaching selected games and activities. Fieldwork experience is a requirement in this
 course. (Fall)
-144
 
 Core Curriculum Component: None
 Prerequisite(s): HPE104(Components of Fitness Training), HPE205(Introduction to Health, Physical Education, and
@@ -5975,7 +5831,6 @@ HPE357(Measurement in Health, Physical Education, and Exercise Science) *concurr
 HPE350L
 Kinesiology Lab
 0 Semester Credits
-145
 
 Core Curriculum Component: None
 Prerequisite(s): HPE350(Kinesiology) *concurrent registration is required*
@@ -6016,7 +5871,6 @@ Physical Education Methods K-6
 Procedures, materials, and issues for teaching physical education in grades K-6. An in-depth view of all aspects of
 teaching physical education to elementary-aged children. Fieldwork experience is a requirement in this course. (Fall)
 Core Curriculum Component: None
-146
 
 Prerequisite(s): HPE104(Components of Fitness Training), HPE324(K-6 PE Games and Activities)
 HPE368
@@ -6056,7 +5910,6 @@ Internship
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): None
 
-147
 
 HPE410
 Administration and Supervision of the School Health Program
@@ -6097,7 +5950,6 @@ as help develop a basis for research as this relates to the major.
 Core Curriculum Component: Keystone
 Prerequisite(s): HPE350(Kinesiology), HPE351(Physiology of Exercise)
 HPE495
-148
 
 Topics
 4 Semester Credits
@@ -6138,7 +5990,6 @@ interdisciplinary major, the final project must be also be interdisciplinary. St
 connected to the Middle Ages, but must examine it with professors from at least three different disciplines. The
 traditional disciplines that comprise medieval studies are art history, English, history, music history, philosophy, religion,
 and theater history, but students have also completed projects involving professors from other disciplines, such as
-149
 
 sociology and psychology. Experiential approaches are encouraged but not required. For example, past students have
 built medieval musical instruments, medieval suits of armor, and Renaissance commedia dell’arte masks, and then
@@ -6179,7 +6030,6 @@ Vocation, and the Search for Meaning I+II) *concurrent registration is acceptabl
 Search for Meaning I) *concurrent registration is acceptable*
 INS225
 Introduction to Islam
-150
 
 4 Semester Credits
 The course covers the ideological foundations of Islam, its basic concepts and tenets, Islamic law (Shari’ah), Islamic
@@ -6219,7 +6069,6 @@ Prerequisite(s): None
 INS294
 Career Exploration in Financial Services
 
-151
 
 2 Semester Credits
 This course will introduce the career exploration/planning process and an overview of careers in financial services and
@@ -6259,7 +6108,6 @@ Building a Sustainable Democracy
 4 Semester Credits
 Core Curriculum Component: None
 Prerequisite(s): None
-152
 
 INS317
 Understanding the Northern Ireland Conflict
@@ -6299,7 +6147,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 INS335
 
-153
 
 Digital Laboratory
 4 Semester Credits
@@ -6339,7 +6186,6 @@ Social Dimensions of Environmental Change
 Core Curriculum Component: None
 Prerequisite(s): None
 INS352
-154
 
 Field Research Methods and Investigation
 4 Semester Credits
@@ -6379,7 +6225,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 INS366
 Community Participation and Social Change
-155
 
 4 Semester Credits
 Core Curriculum Component: None
@@ -6417,7 +6262,6 @@ Prerequisite(s): None
 INS387
 Integration Seminar: Advanced Internship: Theory and Practice
 4 Semester Credits
-156
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -6455,7 +6299,6 @@ INS399
 Internship
 4 Semester Credits
 Core Curriculum Component: Augsburg Experience
-157
 
 Prerequisite(s): None
 INS491
@@ -6495,7 +6338,6 @@ Creating Life in the Arts: Exploration and Reflection on Vocation
 From personal reflection on vocation to real-world insights and hands-on experiences, this course will delve deeply into
 the skill sets and mind sets important for arts professionals in all fine arts majors. While exploring vocation concepts,
 this course balances entrepreneurial awareness, attitudes, and skills with entrepreneurial insights, skills and reflection.
-158
 
 Core Curriculum Component: Keystone
 Prerequisite(s): None
@@ -6535,7 +6377,6 @@ Attention to classical and medieval Latin culture as time permits.
 Core Curriculum Component: Modern Language 2
 Prerequisite(s): LAT101(Beginning Latin I)
 
-159
 
 LST – Leadership Studies
 LST205
@@ -6575,7 +6416,6 @@ A fast-paced review of basic mathematical skills and concepts including integers
 percents, order of operations, exponents, and an introduction to algebraic expressions, equations, and graphs with an
 emphasis on applications to everyday life. P/N grading only. Prior experience with high school algebra is assumed. MAT
 
-160
 
 103 does not count as credit toward graduation. Grade of P advances student to MPG2. This course does not meet a
 NSM-LAF and does not meet QF.
@@ -6616,7 +6456,6 @@ Students who have completed MAT 145 or other calculus courses may register for c
 department. Grade of C- or higher advances student to MPG4.
 Core Curriculum Component: Natural Sciences and Mathematics
 Prerequisite(s): 1 of MAT105(Applied Algebra), MPL(Math Placement Level 3)
-161
 
 MAT137
 Mathematics for Elementary Teachers I
@@ -6657,7 +6496,6 @@ Concepts of calculus focusing on integration; topics include techniques of integ
 differential equations, infinite series, and polar curves.
 Core Curriculum Component: Natural Sciences and Mathematics
 Prerequisite(s): MAT145(Calculus I)
-162
 
 MAT163
 Introductory Statistics
@@ -6699,7 +6537,6 @@ Internship
 4 Semester Credits
 Work-based learning experience that links the ideas and methods of mathematics to the opportunities found in the
 internship.
-163
 
 Core Curriculum Component: None
 Prerequisite(s): CONSENT(Consent of Instructor)
@@ -6740,7 +6577,6 @@ MAT252
 Exploring Geometry
 4 Semester Credits
 
-164
 
 Concepts of geometry including Euclidean and non-Euclidean geometries and geometric transformations with an
 emphasis on geometric reasoning, conjecturing, and proof.
@@ -6782,7 +6618,6 @@ Prerequisite(s): 1 of COM111(Public Speaking), COM112(Contest Public Speaking), 
 Public Speaking), HON130(Liberating Letters: Humanist Tradition), MAT201(Communicating Mathematics); 1 of
 ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing), HON111(Effective Writing
 for Liberating Letters), WPL(Writing Placement Level); MAT271(Discrete Mathematical Structures)
-165
 
 MAT314
 Abstract Algebra
@@ -6826,7 +6661,6 @@ Julia sets.
 Core Curriculum Component: None
 Prerequisite(s): 1 of MAT246(Linear Algebra), MAT269(Modeling and Differential Equations), MAT271(Discrete
 Mathematical Structures); MAT146(Calculus II)
-166
 
 MAT369
 Modeling and Differential Equations in Biological and Natural Sciences
@@ -6869,7 +6703,6 @@ COM112(Contest Public Speaking), COM115(Scientific and Technical Public Speaking
 Humanist Tradition), MAT201(Communicating Mathematics); MAT246(Linear Algebra)
 MAT394
 Topics in Statistics
-167
 
 4 Semester Credits
 Study of an advanced topic in statistics such as modeling, design of experiments, or data analysis.
@@ -6913,7 +6746,6 @@ MAT491
 Mathematics Colloquium
 0 Semester Credits
 
-168
 
 Information about contemporary applications, career opportunities, and other interesting ideas in mathematics.
 Presented by outside visitors, faculty members, or students. Carries no course credit.
@@ -6955,7 +6787,6 @@ Prerequisite(s): 1 of MBAMATALL(MBA Math - All Sections), MBAMATECO(MBA Math - E
 MBA520
 Accounting for Business Managers
 3 Semester Credits
-169
 
 This course will introduce MBA students to managerial accounting in business organizations. The focus of managerial
 accounting is to provide accounting data to internal decision-makers (managers/employees). External and internal
@@ -6999,7 +6830,6 @@ discussion of international portfolio investment and asset pricing.
 Core Curriculum Component: None
 Prerequisite(s): None
 MBA540
-170
 
 Business and Professional Ethics
 3 Semester Credits
@@ -7042,7 +6872,6 @@ Managing in a Global Environment
 Explores the reasons, conditions, processes, and challenges of internationalization from an enterprise perspective. The
 foci of the course will be international trade theory and institutional governance of international trade/monetary policy,
 and the differences in political-economic/socio-cultural systems and their implications for international business.
-171
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -7086,7 +6915,6 @@ will use a variety of assessment tools to learn more about their strengths and w
 begin their journal and reflect on their personal development plan. The journal begins in this class and will continue in
 the next three courses.
 Core Curriculum Component: None
-172
 
 Prerequisite(s): None
 MBA595
@@ -7128,7 +6956,6 @@ Research in the Disciplines
 2 Semester Credits
 Scholars in this two-credit course will investigate and analyze the process of research, learning ways to choose and focus
 a research topic and question, skills for reading discipline-specific journal articles and conducting literature reviews, and
-173
 
 accepted methods of inquiry and information retrieval. Scholars receive guidance from McNair staff and their Research
 Faculty Mentor. Scholars may choose to work on their Research Faculty Mentor’s established topic or develop their own
@@ -7170,7 +6997,6 @@ Prerequisite(s): None
 MDC104CE
 College Mathematics
 4 Semester Credits
-174
 
 Course Description from Course Syllabus This course covers the basics of college level algebra, emphasizing
 understanding of the basic principles through investigation. The topics covered range from a basic algebra review to
@@ -7212,7 +7038,6 @@ non-democratic governments.
 Core Curriculum Component: None
 Prerequisite(s): None
 MDC1102CE
-175
 
 Beginning Spanish II
 3 Semester Credits
@@ -7253,7 +7078,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 MDC1125CE
 Creative Problem Solving
-176
 
 3 Semester Credits
 MDC1125CE Creative Problem Solving IHCC Equivalent: INTS 1125 Creative Problem Solving 3.0 cr Provides information
@@ -7296,7 +7120,6 @@ Prerequisite(s): None
 MDC114CE
 The Research Paper
 4 Semester Credits
-177
 
 Equivalent to IHCC ENG 1114 The Research Paper - WRIT 3 cr Emphasizes critical analysis of fiction or nonfiction texts, at
 least one book-length, resulting in a research paper that reflects analysis and synthesis of multiple sources. Prereq:
@@ -7336,7 +7159,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 MDC123CE
 Small Business Management
-178
 
 4 Semester Credits
 Core Curriculum Component: None
@@ -7376,7 +7198,6 @@ Prerequisite(s): None
 MDC1400CE
 Energy, Environment and Climate
 4 Semester Credits
-179
 
 IHCC Equivalent: GEOG 1400 Energy, Environment and Climate 4 cr Provides a holistic approach to the workings of the
 atmosphere and climatological impacts on global human populations. Topics include weather patterns and long-term
@@ -7415,7 +7236,6 @@ History of Rock and Roll
 Core Curriculum Component: None
 Prerequisite(s): None
 MDC210CE
-180
 
 Educational Psychology
 4 Semester Credits
@@ -7453,7 +7273,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 MDC241CE
 Introduction to Film
-181
 
 4 Semester Credits
 Core Curriculum Component: None
@@ -7494,7 +7313,6 @@ their relationships through active practice. Students will participate in multip
 classroom setting, to build their interpersonal communication skills.
 Core Curriculum Component: None
 Prerequisite(s): None
-182
 
 MDC255CE
 Small Group Communication
@@ -7535,7 +7353,6 @@ Prerequisite(s): 1 of MAT105(Applied Algebra), MPL(Math Placement Level 3)
 MIS264
 Statistical Literacy for Managers
 4 Semester Credits
-183
 
 Critical thinking about statistics as evidence for management decisions. Analysis of business cases involving non-financial
 data. Focus on predicting, understanding, and managing variation: modeling, sampling, optimizing, etc. Reviews
@@ -7576,7 +7393,6 @@ Prerequisite(s): 1 of BUS200(Exploring Business as a Vocation), BUS242(Principle
 of Marketing); 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing),
 HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level)
 MIS376
-184
 
 Project Management
 4 Semester Credits
@@ -7618,7 +7434,6 @@ regression, logistic regression, and Monte-Carlo simulation using @Risk. Other m
 analysis; classification and discriminant analysis; and ANOVA. Students will learn the power and limitations of each
 model studied.
 Core Curriculum Component: None
-185
 
 Prerequisite(s): 1 of MAT163(Introductory Statistics), MAT164(Introductory Statistics for STEM), MIS264(Statistical
 Literacy for Managers), MIS379(Quantitative Methods for Business and Economics)
@@ -7658,7 +7473,6 @@ Core Curriculum Component: None
 Prerequisite(s): MKT252(Principles of Marketing)
 MKT352
 Marketing Research and Analysis
-186
 
 4 Semester Credits
 Research process as an aid to decision making. Emphasis on development of research proposal, methodology, and
@@ -7699,7 +7513,6 @@ Marketing Management
 4 Semester Credits
 Application of marketing concepts to day-to-day strategies and long-term planning issues; development and
 implementation of marketing plans.
-187
 
 Core Curriculum Component: None
 Prerequisite(s): 1 of MKT355(Marketing Communications), MKT357(Advertising); 1 of ENG111(Effective Writing),
@@ -7740,7 +7553,6 @@ ML511
 Creativity and the Problem-Solving Process
 3 Semester Credits
 
-188
 
 Exploration of creativity from the perspective of traditional aesthetics as well as contemporary organizational thinking.
 This course uses creativity as a method, and it examines techniques for solving problems in organizations, for enhancing
@@ -7783,7 +7595,6 @@ course, students will articulate their leadership strengths, examine models of l
 theories in order to develop a leadership plan that honors their authentic selves.
 Core Curriculum Component: None
 Prerequisite(s): None
-189
 
 ML527
 Spirituality and Leadership in the Workplace
@@ -7825,7 +7636,6 @@ This course will explore the impact of change on organizations, teams, and indiv
 and future leaders to effectively lead change efforts in their organizations. This leadership development will be
 accomplished through the study of several change management theories and frameworks. Moreover, application and
 evaluation of change management theories will be emphasized.
-190
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -7866,7 +7676,6 @@ The purpose of this course is to develop influence skills through the exploratio
 coaching practices. To fulfill that purpose participants will read the work of master consultants and coaches, develop a
 toolkit, practice consulting as both a consultant and a client, and reflect on these experiences to develop their own
 purpose, principles, and practices for influencing others.
-191
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -7907,7 +7716,6 @@ Prerequisite(s): None
 ML563
 Leadership in a Global Society
 3 Semester Credits
-192
 
 This class focuses on enhancing global leadership competencies, beginning with core concepts and personal assessments
 and concluding with a global leadership development project where learners demonstrate their ability to take theory to
@@ -7949,7 +7757,6 @@ outcomes. Coursework includes reading assignments, class discussion and role pla
 resolve conflict situations, and a final paper incorporating all elements of constructive conflict resolution.
 Core Curriculum Component: None
 Prerequisite(s): None
-193
 
 ML576
 Leading Innovation
@@ -7991,7 +7798,6 @@ Prerequisite(s): CONSENT(Consent of MAL Program Director)
 ML588
 Final Project Seminar: Action Research
 3 Semester Credits
-194
 
 In this course students who are pursuing the cohort program will have the opportunity to write their final project doing
 action research on their own organization.
@@ -8031,7 +7837,6 @@ three courses with a grade of at least 3.0. Students must complete a Proposal fo
 by the supervising instructor. Proposals must be approved by the MAL program director prior to registration for the
 course. Students may not take more than one independent study course.
 Core Curriculum Component: None
-195
 
 Prerequisite(s): None
 ML599
@@ -8071,7 +7876,6 @@ MUE113
 Vocal Chamber Music
 0 Semester Credits
 
-196
 
 This performance-based course introduces singers to a range of music composed for small groups of singers and/or
 instrumentalists. This course fulfills the small ensemble requirement for music majors, and is open to non-music majors
@@ -8115,7 +7919,6 @@ This performance-based course introduces string players to a range of music comp
 and may include duos, trios and string quartets as well as music written for strings in combination with other
 instrumentalists and/or singers. This course fulfills the small ensemble requirement for music majors, and is open to
 non-music majors by permission of the instructor.
-197
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -8157,7 +7960,6 @@ permission of the instructor.
 Core Curriculum Component: None
 Prerequisite(s): None
 MUE143
-198
 
 Jazz Ensemble
 1 Semester Credits
@@ -8198,7 +8000,6 @@ Experience the process of preparation, rehearsal, and performance of operatic re
 Core Curriculum Component: None
 Prerequisite(s): MUE294(Opera Workshop)
 
-199
 
 MUP – Music
 MUP111
@@ -8242,7 +8043,6 @@ minors, and music majors studying secondary performance areas should register ei
 lesson). Music majors should register in their principal performance medium for 1.0 credit for a full hour lesson weekly
 plus a studio class. Music majors should have prior experience with performance in their primary medium. Non-majors,
 
-200
 
 minors, and those studying secondary performance areas will find prior experience helpful but not always necessary.
 Consultation with the music department is required for all half hour lessons. Applied music fee required for all lessons.
@@ -8286,7 +8086,6 @@ Performance Study: Bassoon
 1 Semester Credits
 Instrument or voice lessons. Half hour or full hour of instruction weekly. Students in majors other than music, music
 minors, and music majors studying secondary performance areas should register either for zero or 0.5 credit (half hour
-201
 
 lesson). Music majors should register in their principal performance medium for 1.0 credit for a full hour lesson weekly
 plus a studio class. Music majors should have prior experience with performance in their primary medium. Non-majors,
@@ -8330,7 +8129,6 @@ Prerequisite(s): None
 MUP136
 Performance Study: Harpsichord
 1 Semester Credits
-202
 
 Instrument or voice lessons. Half hour or full hour of instruction weekly. Students in majors other than music, music
 minors, and music majors studying secondary performance areas should register either for zero or 0.5 credit (half hour
@@ -8374,7 +8172,6 @@ Consultation with the music department is required for all half hour lessons. Ap
 Core Curriculum Component: None
 Prerequisite(s): None
 MUP143
-203
 
 Performance Study: Baritone
 1 Semester Credits
@@ -8417,7 +8214,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 MUP161
 Performance Study: Guitar
-204
 
 2 Semester Credits
 Instrument or voice lessons. Half hour or full hour of instruction weekly. Students in majors other than music, music
@@ -8461,7 +8257,6 @@ minors, and those studying secondary performance areas will find prior experienc
 Consultation with the music department is required for all half hour lessons. Applied music fee required for all lessons.
 Core Curriculum Component: None
 Prerequisite(s): None
-205
 
 MUP192
 Performance Study: Improvisation
@@ -8505,7 +8300,6 @@ jury for departmental faculty, or equivalent level of proficiency. Consult with 
 and approval. Applied music fee required.
 Core Curriculum Component: None
 Prerequisite(s): MUSICADMIT(Music Department Admission)
-206
 
 MUP321
 Performance Study: Violin
@@ -8548,7 +8342,6 @@ and approval. Applied music fee required.
 Core Curriculum Component: None
 Prerequisite(s): MUSICADMIT(Music Department Admission)
 MUP331
-207
 
 Performance Study: Oboe
 1 Semester Credits
@@ -8591,7 +8384,6 @@ Core Curriculum Component: None
 Prerequisite(s): MUSICADMIT(Music Department Admission)
 MUP335
 Performance Study: Flute
-208
 
 1 Semester Credits
 Upper division instrument or voice lessons in principal performance medium for students who are music majors, or for
@@ -8634,7 +8426,6 @@ Prerequisite(s): MUSICADMIT(Music Department Admission)
 MUP342
 Performance Study: Trombone
 1 Semester Credits
-209
 
 Upper division instrument or voice lessons in principal performance medium for students who are music majors, or for
 students with strong music skills who want credit and are approved by the department. One hour lesson weekly plus
@@ -8678,7 +8469,6 @@ Performance Study: Guitar
 2 Semester Credits
 Upper division instrument or voice lessons in principal performance medium for students who are music majors, or for
 students with strong music skills who want credit and are approved by the department. One hour lesson weekly plus
-210
 
 studio class. Admission to upper-division lessons requires satisfactory achievement on fourth-semester performance
 jury for departmental faculty, or equivalent level of proficiency. Consult with music department for further information
@@ -8721,7 +8511,6 @@ Performance Study: Improvisation
 Upper division instrument or voice lessons in principal performance medium for students who are music majors, or for
 students with strong music skills who want credit and are approved by the department. One hour lesson weekly plus
 studio class. Admission to upper-division lessons requires satisfactory achievement on fourth-semester performance
-211
 
 jury for departmental faculty, or equivalent level of proficiency. Consult with music department for further information
 and approval. Applied music fee required.
@@ -8764,7 +8553,6 @@ MUS130
 Introduction to Music in the Fine Arts
 4 Semester Credits
 
-212
 
 E.D. Hirsch describes cultural literacy as “the network of information that all competent readers possess.” This course
 draws students into that information web using the history of Western art music as the thread that ties culture together
@@ -8805,7 +8593,6 @@ MUS160
 Fundamentals of Music
 4 Semester Credits
 
-213
 
 Introduction to the basic elements of Western musical notation (pitch, rhythm, meter, intervals, major and minor scales,
 key signatures, and chords). Students will develop basic aural and keyboard skills, identify typical compositional forms in
@@ -8847,7 +8634,6 @@ continue to gain a thorough grasp of music fundamentals and their application to
 relevant musical works from a variety of musical traditions.
 Core Curriculum Component: None
 Prerequisite(s): MUS114(Music Theory and Aural Skills II)
-214
 
 MUS214
 Music Theory and Aural Skills IV
@@ -8889,7 +8675,6 @@ History and Literature of Music, 1750 to Present
 4 Semester Credits
 Continuation of MUS 231 from 1750 to the present.
 Core Curriculum Component: None
-215
 
 Prerequisite(s): 1 of MUS101(Materials of Music I), MUS113(Music Theory and Aural Skills I); 1 of MUS102(Materials of
 Music II), MUS114(Music Theory and Aural Skills II)
@@ -8931,7 +8716,6 @@ MUS241
 History of Jazz
 4 Semester Credits
 
-216
 
 This course is a study of the musical elements, cultural perspectives, and the historical developments of jazz. Many
 styles of jazz are examined including early New Orleans Dixieland, swing, cool, jazz/rock/fusion, ragtime, bop, and
@@ -8972,7 +8756,6 @@ MUS254
 French Diction
 1 Semester Credits
 
-217
 
 Intensive course covering basic singing pronunciation of French through the study of the art song repertoire. Includes
 regular class performances and phoneticization of texts using the International Phonetic Alphabet. Required for vocal
@@ -9014,7 +8797,6 @@ Core Curriculum Component: None
 Prerequisite(s): MUS271(Introduction to Music Therapy)
 MUS290
 History of Caribbean Music
-218
 
 4 Semester Credits
 Core Curriculum Component: Fine Arts
@@ -9053,7 +8835,6 @@ MUS312
 Composition II
 2 Semester Credits
 
-219
 
 This course introduces contemporary approaches to melody, harmony, tonality, rhythm, and form. Atonality, serialism,
 indeterminacy, electronic music, minimalism, decategorization and related literature are also explored.
@@ -9097,7 +8878,6 @@ This course explores the music, cultural trends, and composers associated with t
 repertoire is studied in conjunction with the cultural forces and ideas that help shape the music. Music majors will have
 an opportunity to integrate their liberal arts education, knowledge of music theory and history, and writing skills
 through a major research paper.
-220
 
 Core Curriculum Component: None
 Prerequisite(s): 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing),
@@ -9140,7 +8920,6 @@ relationship to music and the impact and influence of music and all its elements
 repertoire and building musical skills required for implementing these methods in music therapy practice.
 Core Curriculum Component: None
 Prerequisite(s): MUS273(Functional Music Skills)
-221
 
 MUS341
 Basic Conducting
@@ -9182,7 +8961,6 @@ Current teaching techniques, methods, and materials for teachers of general musi
 elementary and secondary levels. Includes field experience hours and prepractica. Enrollment limited to majors except
 by permission of the instructor.
 Core Curriculum Component: None
-222
 
 Prerequisite(s): 1 of MUS303(Introduction to Learning and Teaching in Music), MUS503(Introduction to Learning and
 Teaching in Music)
@@ -9224,7 +9002,6 @@ MUS358
 Junior Recital
 0 Semester Credits
 
-223
 
 One-half hour recital at repertoire level III for music education majors; one hour recital at level IV for music performance
 majors. Studio instructor may request a recital preview.
@@ -9265,7 +9042,6 @@ HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level)
 MUS374
 Music Therapy Practicum
 1 Semester Credits
-224
 
 Students are placed in a clinical site in order to build on academic knowledge and practice clinical skills. Students are
 expected to engage in course work around professional standards of practice and be present at the clinical site for 3-4
@@ -9309,7 +9085,6 @@ MUS392
 Topics
 4 Semester Credits
 Core Curriculum Component: None
-225
 
 Prerequisite(s): None
 MUS397
@@ -9349,7 +9124,6 @@ This course introduces students to a wide variety of music written for keyboard 
 the present.
 Core Curriculum Component: None
 
-226
 
 Prerequisite(s): None
 MUS456
@@ -9389,7 +9163,6 @@ expected to engage in course work around professional standards of practice and 
 hours per week.
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): MUS474(Music Therapy Practicum)
-227
 
 MUS477
 Instrumental Methods in Music Education
@@ -9431,7 +9204,6 @@ In this course, students will be developing advanced skills in clinical music th
 attend both the course meeting and 3-4 hours per week at a practicum site to be determined by the course instructor.
 Students will be expected to engage in experiences which reflect advanced undergraduate-level practice, including but
 not limited to research, development of new programs, sustaining funds for music therapy work, work with clinical
-228
 
 populations which require advanced skills and use of advanced music therapy methods (neurological music therapy,
 trauma-informed therapy, Guided Imagery and Music, etc.). Site assignments are made based on student strengths,
@@ -9472,7 +9244,6 @@ Contemporary Topics in Music Education
 2 Semester Credits
 Both implicitly and explicitly, PK-12 and community music educators address a wide variety of contemporary issues in
 music education in their respective teaching settings, including social justice and equity with diverse student
-229
 
 populations, culturally relevant pedagogy, creativity, integration of technology, and teaching students with special
 needs. Throughout this course, students will explore these pressing pedagogical and sociological issues in American
@@ -9515,7 +9286,6 @@ MUS520
 Advanced Music Therapy Clinical Practice II
 3 Semester Credits
 
-230
 
 This course provides a comprehensive overview and in-depth exploration of creative and improvisational music therapy
 methods for use in a variety of clinical settings. These methods will be explored through review of research literature,
@@ -9558,7 +9328,6 @@ their own research interests and biases, as well as formulating research questio
 their clinical practice, and experience. Models of quantitative research are examined, as well as identifying and
 developing and applying the skills necessary for conducting research.
 Core Curriculum Component: None
-231
 
 Prerequisite(s): None
 MUS545
@@ -9600,7 +9369,6 @@ An examination of issues of special education and students with disabilities and
 contexts. Topics include techniques for accommodations and modifications within music education classes and
 ensembles to create an inclusive learning environment. Societal and educational attitudes and challenges faced by
 
-232
 
 individuals with disabilities across the lifespan will be discussed, as will special education law and the role of families and
 support networks for students with special needs. Enrollment limited to majors except by permission of the instructor.
@@ -9644,7 +9412,6 @@ This course provides an in-depth exploration of music therapy methods with infan
 with a focus on addressing the impact of hospitalization and meeting the changing needs of children and families.
 Emphasis for the course will be on critical and chronic illness, palliative and hospice care, and working as part of an
 integrative treatment team.
-233
 
 Core Curriculum Component: None
 Prerequisite(s): MUS515(Advanced Music Therapy Clinical Practice I), MUS520(Advanced Music Therapy Clinical Practice
@@ -9687,7 +9454,6 @@ MUS577
 Instrumental Methods in Music Education
 2 Semester Credits
 
-234
 
 Development of skills necessary for teaching elementary and secondary instrumental ensembles. Role of the
 instrumental music educator, purpose of instrumental music in the schools. Field experiences in schools required.
@@ -9729,7 +9495,6 @@ practice. This course will also explore the use of musical and non-musical means
 group process or experience.
 Core Curriculum Component: None
 Prerequisite(s): MUS510(Advanced Music Therapy Theory)
-235
 
 MUS590
 Interdisciplinary Practice & Research Methods in Music Therapy
@@ -9770,7 +9535,6 @@ organization while developing specific communication skills.
 Core Curriculum Component: None
 Prerequisite(s): None
 NMS102
-236
 
 Audio Storytelling Practicum
 1 Semester Credits
@@ -9812,7 +9576,6 @@ simultaneous, and non-linear practices of writing emerging in digital culture. I
 the digital on the literary page, stage, and screen.
 Core Curriculum Component: None
 
-237
 
 Prerequisite(s): 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing),
 HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level)
@@ -9852,7 +9615,6 @@ Prerequisite(s): None
 NMS399
 Internship
 4 Semester Credits
-238
 
 Junior or senior standing required
 Core Curriculum Component: Augsburg Experience
@@ -9892,7 +9654,6 @@ its cultural context.
 Core Curriculum Component: Modern Language 2
 Prerequisite(s): 1 of LANGPLCMNT(Language Placement), NOR111(Beginning Norwegian I)
 
-239
 
 NUR – Nursing
 NUR300
@@ -9933,7 +9694,6 @@ NUR315
 Self-Care II: Health of the Nurse
 2 Semester Credits
 
-240
 
 In this course, modalities will be introduced, beyond what you learned in NUR 314. Your personal self-care plan will be
 expanded to include self-care at work. This revised plan will be implemented throughout this course, and evaluated,
@@ -9974,7 +9734,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 NUR490
 Leadership/Management
-241
 
 4 Semester Credits
 The capstone course for the nursing major. Integrates concepts from nursing and the liberal arts. Examines the
@@ -10015,7 +9774,6 @@ NUR500P
 Practicum: Transcultural Health Care
 1 Semester Credits
 
-242
 
 This practicum explores meanings and expressions of health, illness, caring and healing transculturally. Students are
 introduced to fundamental skills of transcultural nursing practice in a variety of settings and guided to recognize cultural
@@ -10057,7 +9815,6 @@ contexts.
 Core Curriculum Component: None
 Prerequisite(s): None
 NUR520
-243
 
 Research Methods in Nursing
 3 Semester Credits
@@ -10100,7 +9857,6 @@ NUR523
 Theory, Research, and Practice Seminar
 3 Semester Credits
 
-244
 
 The conceptualization, investigation, and application of nursing knowledge will be critiqued with particular focus on its
 contribution to developing practice in transcultural community health care. Through reflection and dialogue, which
@@ -10143,7 +9899,6 @@ In this course, the student will explore ritual and ceremony from a transcultura
 on rituals and ceremonies in specific cultures and religions, and in the modern American medical system that sustains its
 own rituals. In some cultures, formal or informal religious practices may be integral to the ritual of ceremony and
 healing. In modern American culture, the perceived division between the mind, body, and spirit has led to ritual and
-245
 
 ceremony being considered adjunctive to the scientific approach ritual and ceremony into their lives and health care
 practices. Students will also discuss the meaning of ritual and ceremony to their own lives and professional practice.
@@ -10186,7 +9941,6 @@ diminish the health of all members of society; how social inequities become medi
 emphasis on profit in health care affects the distribution of healing resources in the population, and what strategies the
 poor and powerless employ to gain access to health care resources. This course will include an optional study abroad
 experience in Guatemala.
-246
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -10225,7 +9979,6 @@ Prerequisite(s): None
 NUR701
 Practicum: Directed Study
 1 Semester Credits
-247
 
 Directed study practica build upon advanced nursing competencies developed at the master’s level to expand and
 deepen knowledge supporting expert nursing practice. In the practica students will integrate and synthesize knowledge
@@ -10270,7 +10023,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 NUR711
 Practicum: Culture Care on the Pine Ridge Indian Reservation
-248
 
 1 Semester Credits
 This practicum focuses on health and wellness on the Pine Ridge Indian Reservation in western South Dakota.
@@ -10311,7 +10063,6 @@ Prerequisite(s): None
 NUR732
 Practicum: Dia de los Muertos
 2 Semester Credits
-249
 
 In this practicum students are immersed in the ancient tradition of honoring the children and ancestors during the
 celebration of the Day of the Dead in Mexico. Living in Cuernavaca or Oaxaca, Mexico, students are guided by
@@ -10353,7 +10104,6 @@ Prerequisite(s): None
 NUR800
 Practice Wisdom (Métis) and Formal Evidence
 3 Semester Credits
-250
 
 This course provides a foundation for building the scholarship of advanced transcultural and holistic nursing practice.
 Sources of knowledge and procedures for acquiring knowledge, both formal and informal, will be studied for the power
@@ -10397,7 +10147,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 NUR806
 Bio-Cultural Epidemiology: The Ecology of Human Suffering in a World of Extremes
-251
 
 3 Semester Credits
 This course embraces a critical social approach to understanding health and illness embodied within populations and
@@ -10441,7 +10190,6 @@ Prerequisite(s): None
 NUR816
 Advanced Pathophysiology and Vibrational Energy Medicine
 3 Semester Credits
-252
 
 This course examines the interactions and influences of cellular and energy transmission within the human body. The
 role of imbalance and inflammation on body systems will articulate how illness and disease results from ongoing states
@@ -10482,7 +10230,6 @@ Prerequisite(s): None
 NUR821
 Second Year Doctoral Seminar
 1 Semester Credits
-253
 
 The purpose of the doctoral seminar is to build upon advanced nursing practice competencies developed during
 students' practicum experiences that are faculty-led and those that are self-directed; and to foster students' completion
@@ -10525,7 +10272,6 @@ class will also include an in-depth description of how pharmacology and herbs ar
 the life span.
 Core Curriculum Component: None
 Prerequisite(s): None
-254
 
 NUR827
 Integrative Primary Care of Children
@@ -10567,7 +10313,6 @@ Core Curriculum Component: None
 Prerequisite(s): CONSENT(Consent of Instructor), NUR831(Third Year Doctoral Seminar)
 NUR842
 Seminar 4: Doctor of Nursing Practice - Family Nurse Practitioner Seminar
-255
 
 1 Semester Credits
 The purpose of the doctoral seminar is to build upon advanced nursing practice competencies to foster students'
@@ -10610,7 +10355,6 @@ Prerequisite(s): NUR851(Integrative Primary Care of Adults Clinical II)
 NUR853
 Integrative Primary Care of Children Clinical
 2 Semester Credits
-256
 
 This clinical engages students in a transcultural and holistic approach to integrative primary care of children. Clinical
 rotations will include experience in assessment, diagnosis, treatment, and ongoing management of illness and health
@@ -10654,7 +10398,6 @@ II), NUR852(Integrative Primary Care of Adults Clinical III), NUR853(Integrative
 NUR861(NUR861 taken concurrently) *concurrent registration is required*
 NUR860
 Through the Lens of Wholeness: A Human Approach
-257
 
 3 Semester Credits
 This course will provide an approach to a collaborative medicine case study application of transcultural and holistic
@@ -10695,7 +10438,6 @@ NUR897
 Independent Study
 2 Semester Credits
 Core Curriculum Component: None
-258
 
 Prerequisite(s): None
 NUR898
@@ -10735,7 +10477,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 PA503
 Human Pathophysiology
-259
 
 4 Semester Credits
 The course uses lecture, detailed objectives/study guide, quizzes and exam, discussion and case studies to learn and
@@ -10778,7 +10519,6 @@ Pharmacotherapy II
 This course will cover pharmacology and pharmacotherapy related to disease processes of the orthopedic, neurologic,
 ophthalmologic, hematologic, renal, urologic and endocrine systems and pain management. Units are coordinated with
 the Clinical Medicine II and History and Physical Exam Skills II courses.
-260
 
 Core Curriculum Component: None
 Prerequisite(s): PA521(Pharmacotherapy I)
@@ -10821,7 +10561,6 @@ health, and caring for diverse communities.
 Core Curriculum Component: None
 Prerequisite(s): None
 PA545
-261
 
 Clinical Phase Transition
 2 Semester Credits
@@ -10864,7 +10603,6 @@ Prerequisite(s): None
 PA570
 Interdisciplinary Perspectives on Aging
 3 Semester Credits
-262
 
 This course provides an opportunity for students in health and social services disciplines to explore issues related to
 aging and care of the elderly. Students gain real world experiences by working collaboratively in an interdisciplinary
@@ -10906,7 +10644,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 PA602
 General Surgery Clinical Practicum
-263
 
 4 Semester Credits
 A required rotation which emphasizes the pathophysiology, evaluation, diagnosis, and management of systemic diseases
@@ -10949,7 +10686,6 @@ Psychiatric Clinical Practicum
 A required rotation which emphasizes the pathophysiology, evaluation, diagnosis, and management of Psychiatric
 diseases and conditions unique to the clinical practice of Psychiatric Medicine. Inclusion of proper data collection
 through history and physical examination, formulation of accurate problem lists, thorough investigation, and
-264
 
 development of treatment plans utilizing evidence based medicine as determined by review and analysis of current
 medical literature.
@@ -10991,7 +10727,6 @@ completed in PA621 General Medicine Specialty or PA622 Surgical Specialty.
 Core Curriculum Component: None
 Prerequisite(s): None
 PA622
-265
 
 Surgical Specialty Preceptorship
 6 Semester Credits
@@ -11032,7 +10767,6 @@ Core Curriculum Component: Humanities
 Prerequisite(s): None
 PHI120
 Ethics
-266
 
 4 Semester Credits
 By studying our moral beliefs, ethics helps students consider the bases they use to make moral judgments. The course
@@ -11074,7 +10808,6 @@ and inductive reasoning.
 Core Curriculum Component: Humanities
 Prerequisite(s): 1 of MAT105(Applied Algebra), MPL(Math Placement Level 3)
 PHI241
-267
 
 History of Philosophy I: Ancient Greek Philosophy
 4 Semester Credits
@@ -11116,7 +10849,6 @@ nature of the self, the definition of the human being in terms of culture, myth 
 nature and the culture of language, and the culture of art.
 Core Curriculum Component: Humanities
 Prerequisite(s): None
-268
 
 PHI343
 History of Philosophy III: Early Modern and 19th-Century Philosophy
@@ -11157,7 +10889,6 @@ Studies in the writings - both philosophical and literary - of prominent existen
 it means to be a being-in-theworld and explores such themes as absurdity, freedom, guilt, despair, and paradox.
 (Suggested: one prior course in philosophy. Alternate years)
 Core Curriculum Component: None
-269
 
 Prerequisite(s): None
 PHI380
@@ -11198,7 +10929,6 @@ This course integrates the student’s general education experience with an over
 philosophers.
 Core Curriculum Component: Keystone
 Prerequisite(s): None
-270
 
 PHI499
 Independent Study
@@ -11239,7 +10969,6 @@ Core Curriculum Component: Natural Sciences and Mathematics (Lab)
 Prerequisite(s): 1 of PHY107(College Physics I), PHY121(General Physics I); 1 of ENL111(Effective Writing),
 ENL112(Advanced Effective Writing), HON111(Effective Writing for Liberating Letters)
 PHY108L
-271
 
 College Physics II Lab
 0 Semester Credits
@@ -11279,7 +11008,6 @@ other specified majors. Concurrent registration in PHY121L is required. (Three o
 laboratory. Fall)
 Core Curriculum Component: Natural Sciences and Mathematics (Lab)
 Prerequisite(s): MAT145(Calculus I) *concurrent registration is acceptable*
-272
 
 PHY121L
 General Physics I Lab
@@ -11319,7 +11047,6 @@ PHY245
 Modern Physics
 4 Semester Credits
 
-273
 
 An introduction to modern physics from a historical and experimental perspective. Relativity, atomic, molecular, nuclear,
 and solid state physics. This course develops the experimental foundations and need for quantum mechanics.
@@ -11358,7 +11085,6 @@ PHY317
 Biophysics
 4 Semester Credits
 An introduction to classic topics at the intersection of physics and biology. Topics may include biopolymers, selfassembly, nerves and signal propagation, molecular machines, and biomembranes. The course will emphasize
-274
 
 approaches based on thermodynamics, statistical mechanics, and experimental techniques. Concurrent registration in
 PHY317L is required. (Three one-hour lectures and a three hour laboratory. Fall)
@@ -11399,7 +11125,6 @@ principles, single particle motion, gravitation, oscillations, central forces, a
 lectures. Fall)
 Core Curriculum Component: None
 
-275
 
 Prerequisite(s): 1 of MAT245(Calculus III), MAT369(Modeling and Differential Equations in Biological and Natural
 Sciences), PHY327(Special Functions of Mathematical Physics); PHY122(General Physics II)
@@ -11441,7 +11166,6 @@ HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level); 
 PHY396
 Comprehensive Laboratory II
 2 Semester Credits
-276
 
 Application of experimental techniques to advanced experiments in high vacuum physics and technology, modern
 optics, biophysics, and other areas. (One three-hour laboratory and an occasional one-hour seminar per week. Prereq.:
@@ -11482,7 +11206,6 @@ explored at a very detailed level, taking realistic parameters of materials into
 recommended. (Three one-hour lectures.)
 Core Curriculum Component: None
 Prerequisite(s): PHY351(Mechanics I), PHY362(Electromagnetic Fields I)
-277
 
 PHY486
 Quantum Physics
@@ -11522,7 +11245,6 @@ contemporary and historical perspectives.
 Core Curriculum Component: None
 Prerequisite(s): None
 POL158
-278
 
 Introduction to Political Science
 4 Semester Credits
@@ -11562,7 +11284,6 @@ POL295
 Topics
 4 Semester Credits
 Core Curriculum Component: None
-279
 
 Prerequisite(s): None
 POL299
@@ -11605,7 +11326,6 @@ POL490(International Relations Keystone), POL495(Seminar)
 POL341
 Globalization, Social Struggle and the Environment
 4 Semester Credits
-280
 
 Explores issues of globalization and social change in Mexico and analyzes political, social, and economic policies that
 promote and/or hinder sustainable development from a gender perspective. Particular emphasis will be placed on
@@ -11648,7 +11368,6 @@ The Politics of Development in Southern Africa
 This course examines basic theories of development as well as the political economy of development. It provides the
 opportunity to reflect critically on issues of development, including global justice, equality, and sustainability.
 Core Curriculum Component: None
-281
 
 Prerequisite(s): None
 POL357
@@ -11692,7 +11411,6 @@ affecting the allocation of powers in the national government and in the federal
 Core Curriculum Component: None
 Prerequisite(s): 1 of POL121(American Government and Politics), POL122(Metropolitan Complex), POL124(American
 Women and Politics), POL158(Introduction to Political Science), POL160(World Politics), POL241(Environmental and
-282
 
 River Politics), POL282(Asian America Politics of Identit), POL295(Topics), POL323(Social and Political Change),
 POL325(Politics and Public Policy), POL326(Political Parties and Behavior), POL342(Mass Communication in Society),
@@ -11738,7 +11456,6 @@ Core Curriculum Component: None
 Prerequisite(s): 1 of CONSENT(Consent of Instructor), POL121(American Government and Politics),
 POL122(Metropolitan Complex), POL124(American Women and Politics), POL158(Introduction to Political Science),
 POL160(World Politics), POL170(Law in the United States), POL241(Environmental and River Politics), POL282(Asian
-283
 
 America Politics of Identit), POL295(Topics), POL323(Social and Political Change), POL325(Politics and Public Policy),
 POL326(Political Parties and Behavior), POL342(Mass Communication in Society), POL350(Topics: European Politics),
@@ -11782,7 +11499,6 @@ POL490(International Relations Keystone), POL495(Seminar)
 POL459
 Topics: Comparative Politics
 4 Semester Credits
-284
 
 Selected themes including interpretations of political systems and comparisons of political processes such as political
 participation, political development, political change, and revolution. Topic to be included in subtitle.
@@ -11827,7 +11543,6 @@ An analysis of different approaches and theories in the study of politics includ
 science as a model for political study. Major research is required. This course satisfies the Keystone requirement.
 Core Curriculum Component: Keystone
 
-285
 
 Prerequisite(s): 3 of POL121(American Government and Politics), POL122(Metropolitan Complex), POL124(American
 Women and Politics), POL158(Introduction to Political Science), POL160(World Politics), POL170(Law in the United
@@ -11870,7 +11585,6 @@ Prerequisite(s): None
 
 PSY – Psychology
 PSY105
-286
 
 Principles of Psychology
 4 Semester Credits
@@ -11909,7 +11623,6 @@ PSY215
 Research Methods and Statistics I
 4 Semester Credits
 
-287
 
 Part I of a two-term sequence. See PSY 315. PSY 215 may be taken without taking PSY 315. Scientific method as
 practiced in psychology. This sequence emphasizes skills of bibliographic research, research design and data collection,
@@ -11949,7 +11662,6 @@ Environmental Psychology
 This course uses a cultural-ecological viewpoint to study the influence of both the natural and built physical environment
 on human behavior.
 Core Curriculum Component: Engaging Minneapolis
-288
 
 Prerequisite(s): PSY105(Principles of Psychology)
 PSY261
@@ -11989,7 +11701,6 @@ Prerequisite(s): PSY105(Principles of Psychology)
 PSY291
 Addiction and Recovery
 
-289
 
 4 Semester Credits
 Examines addiction and recovery from multiple perspectives, giving special attention to physiological, religious-spiritual,
@@ -12029,7 +11740,6 @@ PSY354
 Cognitive Psychology
 4 Semester Credits
 
-290
 
 Theory, data, and practical applications relevant to the following topics: attention, perception, pattern recognition,
 memory, mental imagery, problem solving, decision making, and language. Note: Students should have completed PSY
@@ -12070,7 +11780,6 @@ Laboratory research experience under the supervision of a faculty member. Concur
 Core Curriculum Component: None
 Prerequisite(s): PSY215(Research Methods and Statistics I)
 PSY381
-291
 
 Historical Perspectives
 4 Semester Credits
@@ -12112,7 +11821,6 @@ HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level); 
 Statistics II)
 PSY397
 Internship
-292
 
 2 Semester Credits
 Core Curriculum Component: Augsburg Experience
@@ -12153,7 +11861,6 @@ Research team experience in a seminar format. Designed to extend students’ kno
 methodological techniques and to explore contemporary professional issues and implications for social policy.
 Recommended for students headed for graduate school and those electing an honors major.
 Core Curriculum Component: None
-293
 
 Prerequisite(s): 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing),
 HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level); CONSENT(Consent of Instructor),
@@ -12194,7 +11901,6 @@ commitments in dialogue with other perspectives. Critical reading and inquiry wi
 assignments and activities.
 Core Curriculum Component: None
 Prerequisite(s): None
-294
 
 RLN200
 Religion, Vocation, and the Search for Meaning II
@@ -12236,7 +11942,6 @@ Research Methods in Religion
 An introduction to the study of the main disciplines within the academic study of Christianity (Bible, theology, and
 church history), including methods and research skills.
 Core Curriculum Component: None
-295
 
 Prerequisite(s): 1 of HON100(Christian Vocation & Search for Meaning I), REL100(Christian Vocation and the Search for
 Meaning I), REL300(Bible, Christian Theology and Vocation), RLN100(Religion, Vocation, and the Search for Meaning I); 1
@@ -12280,7 +11985,6 @@ This class is designed to introduce students to the role spirituality and religi
 through such popular venues as motion pictures, television, music, theater, and literature. In particular, the impact
 religious values have on popular cultural expressions will be examined. *This course can meet the Search for Meaning II
 or Humanities LAF requirement but not both.*
-296
 
 Core Curriculum Component: Humanities, Search for Meaning II
 Prerequisite(s): 1 of HON100(Religion, Vocation, and the Search for Meaning I), REL100(Religion, Vocation, and the
@@ -12324,7 +12028,6 @@ Religion in America
 A study of the history of religion in America. This course explores religion as force for personal transformation,
 community and social change. In the journey from Puritanism to pluralism, special attention is given to the quest for
 religious freedom and the search for meaning in history.
-297
 
 Core Curriculum Component: Search for Meaning II
 Prerequisite(s): 1 of HON100(Religion, Vocation, and the Search for Meaning I), REL100(Religion, Vocation, and the
@@ -12370,7 +12073,6 @@ Core Curriculum Component: Humanities, Search for Meaning II
 Prerequisite(s): 1 of HON100(Religion, Vocation, and the Search for Meaning I), REL100(Religion, Vocation, and the
 Search for Meaning I), REL300(Religion, Vocation, and the Search for Meaning I+II), RLN100(Religion, Vocation, and the
 Search for Meaning I)
-298
 
 RLN261
 Jesus and His Interpreters
@@ -12413,7 +12115,6 @@ Search for Meaning I)
 RLN290
 Foundations for Public Ministry
 4 Semester Credits
-299
 
 As a course that fulfills the Search for Meaning II General Education requirement, this course explores the search for
 meaning through an introductory level study into the biblical, theological, and historical foundations of innovative public
@@ -12456,7 +12157,6 @@ Internship
 4 Semester Credits
 Core Curriculum Component: Augsburg Experience
 
-300
 
 Prerequisite(s): 1 of HON100(Religion, Vocation, and the Search for Meaning I), REL100(Religion, Vocation, and the
 Search for Meaning I), REL300(Religion, Vocation, and the Search for Meaning I+II), RLN100(Religion, Vocation, and the
@@ -12500,7 +12200,6 @@ Core Curriculum Component: Search for Meaning II
 Prerequisite(s): 1 of HON100(Religion, Vocation, and the Search for Meaning I), REL100(Religion, Vocation, and the
 Search for Meaning I), REL300(Religion, Vocation, and the Search for Meaning I+II), RLN100(Religion, Vocation, and the
 Search for Meaning I)
-301
 
 RLN336
 Latin American Liberation Theologies
@@ -12543,7 +12242,6 @@ Search for Meaning I), REL300(Religion, Vocation, and the Search for Meaning I+I
 Search for Meaning I)
 RLN344
 Liberationist, Feminist, Queer and Postcolonial Theologies in Latin America
-302
 
 4 Semester Credits
 Study the range of Latin American liberation theologies that have developed since the 1960s, when Catholic theologians
@@ -12588,7 +12286,6 @@ Core Curriculum Component: Search for Meaning II
 Prerequisite(s): 1 of HON100(Religion, Vocation, and the Search for Meaning I), REL100(Religion, Vocation, and the
 Search for Meaning I), REL300(Religion, Vocation, and the Search for Meaning I+II), RLN100(Religion, Vocation, and the
 Search for Meaning I)
-303
 
 RLN390
 The Art of Public Ministry
@@ -12630,7 +12327,6 @@ Search for Meaning I)
 RLN402
 Independent Study/Research
 4 Semester Credits
-304
 
 For religion majors only.
 Core Curriculum Component: None
@@ -12674,7 +12370,6 @@ This course engages students as partners in ongoing interreligious dialogue and 
 practices for talking about religion in a diverse democracy. Students will also engage in interfaith service-learning
 projects through a connection with the Interfaith Youth Core and the President Obama Interfaith Challenge. (Prereq.:
 sophomore standing).
-305
 
 Core Curriculum Component: Search for Meaning II
 Prerequisite(s): 1 of HON100(Religion, Vocation, and the Search for Meaning I), REL100(Religion, Vocation, and the
@@ -12716,7 +12411,6 @@ A survey of the basic principles of Earth’s weather and climate. Topics includ
 precipitation, thunderstorms, tornados and hurricanes, climate and climate change, global warming, and ozone
 depletion. Concurrent registration in SCI106L is required. (Three one-hour lectures, one two-hour laboratory per week.)
 Core Curriculum Component: Natural Sciences and Mathematics (Lab)
-306
 
 Prerequisite(s): 1 of MAT103(Prealgebra), MAT103(Everyday Math), MPL(Math Placement Level 2)
 SCI106L
@@ -12755,7 +12449,6 @@ SCI123
 The Science of Food and Cooking
 4 Semester Credits
 
-307
 
 A survey of the underlying physics and chemistry relevant to food and its preparation. Topics include: molecular building
 blocks of food, phases and phase transitions, emulsions, foams, gels, fermentation, taste, soil, plants, self-assembly,
@@ -12797,7 +12490,6 @@ Prerequisite(s): None
 SOC – Sociology
 SOC111
 City Life: Introduction to Urban Sociology
-308
 
 4 Semester Credits
 How is community possible in the context of multicultural, social, and political forces that are characteristic of urban
@@ -12838,7 +12530,6 @@ courses on 19th or 20th century U.S. history recommended, but not required.)
 Core Curriculum Component: None
 Prerequisite(s): None
 SOC265
-309
 
 Race, Class and Gender
 4 Semester Credits
@@ -12879,7 +12570,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 SOC299
 Directed Study
-310
 
 4 Semester Credits
 Core Curriculum Component: None
@@ -12920,7 +12610,6 @@ SOC363
 Research Methods
 4 Semester Credits
 
-311
 
 Good research—do you know it when you see it? Can you produce it yourself? Social science research skills are learned
 through the practice and application of the basic tools of valid and reliable research design and data analysis.
@@ -12962,7 +12651,6 @@ urban space typically is developed, and changes, and how this reflects power rel
 participate and intervene in the planning process.
 Core Curriculum Component: None
 
-312
 
 Prerequisite(s): 1 of SOC111(City Life: Introduction to Urban Sociology), SOC121(Introduction to Human Society),
 URB111(City Life: Introduction to Urban Sociology); 1 of ENG111(Effective Writing), ENL111(Effective Writing),
@@ -13003,7 +12691,6 @@ Internship
 2 Semester Credits
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): None
-313
 
 SOC399
 Internship
@@ -13043,7 +12730,6 @@ Beginning Spanish I
 4 Semester Credits
 Aims to develop the four basic skills: understanding, speaking, reading, and writing of elementary Spanish. Introduction
 to culture of the Spanish-speaking world.
-314
 
 Core Curriculum Component: Modern Language 1
 Prerequisite(s): None
@@ -13083,7 +12769,6 @@ Core Curriculum Component: Modern Language 2
 Prerequisite(s): 1 of SPA211(Intermediate Spanish I), SPALANG(Spanish Language Placement)
 SPA220
 Business Spanish
-315
 
 4 Semester Credits
 Aims to enable students to develop proficiency in the vocabulary, grammar, and cultural competencies necessary to
@@ -13123,7 +12808,6 @@ Topics
 Core Curriculum Component: None
 Prerequisite(s): None
 SPA299
-316
 
 Directed Study
 2 Semester Credits
@@ -13163,7 +12847,6 @@ SPA331
 Spanish Civilization and Culture
 4 Semester Credits
 
-317
 
 Study of the Spanish character and of Spanish contributions to world civilization through historical, intellectual, literary,
 and artistic movements. In Spanish.
@@ -13204,7 +12887,6 @@ Core Curriculum Component: Humanities
 Prerequisite(s): 1 of SPA311(Spanish Conversation and Composition), SPA312(Spanish Expression)
 SPA337
 Mexican Civilizations and Cultures
-318
 
 4 Semester Credits
 The purpose of this course is to explore the development and present status of the many indigenous and other cultural
@@ -13243,7 +12925,6 @@ SPA357
 Central American Literature
 4 Semester Credits
 
-319
 
 This course offers an introduction to contemporary Central American literature, focusing on poetry and narratives
 written in the 20th century. Special attention is given to the reciprocal relationship between literature and Central
@@ -13283,7 +12964,6 @@ Prerequisite(s): None
 
 SPE – Education
 SPE410
-320
 
 Implementing Assessment Strategies
 3 Semester Credits
@@ -13327,7 +13007,6 @@ setting is required.
 Core Curriculum Component: None
 Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Graduate Education Department
 Admission)
-321
 
 SPE430
 Instructional and Behavioral Practices
@@ -13371,7 +13050,6 @@ Admission); 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Ad
 GRADEDADMIT(Graduate Education Department Admission), HON111(Effective Writing for Liberating Letters),
 WPL(Writing Placement Level)
 SPE499
-322
 
 Independent Study
 4 Semester Credits
@@ -13414,7 +13092,6 @@ This course will examine techniques appropriate for working with American Indian
 professionals, paraprofessionals, and the community when planning and implementing IEPs and transitions for American
 Indian students with special needs. Skills and strategies to build partnerships to work within and among Native families
 
-323
 
 and communities to best meet the needs of the student will also be addressed. A field component will accompany this
 course.
@@ -13457,7 +13134,6 @@ Professional Issues and Development
 This course will focus on professional development and integrity in teaching. It will examine current issues and ethical
 dilemmas in the fields of special education/American Indian education. Documentation, reflection, synthesis of learning
 and the development of a professional portfolio will be the main focus.
-324
 
 Core Curriculum Component: None
 Prerequisite(s): GRADEDADMIT(Graduate Education Department Admission)
@@ -13499,7 +13175,6 @@ range of academic instructional practices across multiple settings when working 
 learning needs. Field experience is required.
 Core Curriculum Component: None
 
-325
 
 Prerequisite(s): 1 of EDADMIT(Education Department Admission), GRADEDADMIT(Graduate Education Department
 Admission); 1 of EDC410(Learners with Special Needs), EDC544(Learners with Special Needs); 1 of SPE411(Etiology and
@@ -13541,7 +13216,6 @@ Prerequisite(s): GRADEDADMIT(Graduate Education Department Admission)
 SPE599
 Topics
 3 Semester Credits
-326
 
 Core Curriculum Component: None
 Prerequisite(s): GRADEDADMIT(Graduate Education Department Admission)
@@ -13582,7 +13256,6 @@ effect of environmental damage on specific populations, and the ways social chan
 correct these injustices.
 Core Curriculum Component: None
 
-327
 
 Prerequisite(s): None
 SWK230
@@ -13622,7 +13295,6 @@ Prerequisite(s): None
 SWK299
 Directed Study
 4 Semester Credits
-328
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -13664,7 +13336,6 @@ minimum of 120 hours of supervised practice in the fall term. Open only to stude
 admitted to the degree program in Social Work.
 Core Curriculum Component: Augsburg Experience
 Prerequisite(s): SWK306(Social Work Practice 1: With Individuals) *concurrent registration is required*
-329
 
 SWK316
 Social Work Practice 2: With Families and Groups
@@ -13706,7 +13377,6 @@ will be examined. Various approaches to organizing information and interpreting 
 to students who have applied and been admitted to the degree program in Social Work.
 Core Curriculum Component: None
 
-330
 
 Prerequisite(s): 1 of MAT105(Applied Algebra), MPL(Math Placement Level 3); 1 of MAT163(Introductory Statistics),
 SOC362(Statistical Analysis)
@@ -13748,7 +13418,6 @@ This course presents knowledge basic to an understanding of human growth and beh
 examines the interplay of biological, social, cultural, psychological, and spiritual contexts that influence the growth of
 individuals and families in contemporary global society. It requires students to select and apply theory and knowledge
 from the liberal arts to help understand human behavior and development.
-331
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -13790,7 +13459,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 SWK509
 Human Behavior: Mental Health Assessment and Diagnosis
-332
 
 4 Semester Credits
 Using a developmental and strengths perspective, emphasis is placed on biopsychosocial, spiritual, cultural and
@@ -13832,7 +13500,6 @@ SWK535
 Integrated Field Seminar 2
 3 Semester Credits
 
-333
 
 The foundation field seminars: (1) integrate course content (2) address issues and experiences from the students’ field
 practicum through rigorous application of the problem-solving process, systems theory, ecological, and strengths
@@ -13877,7 +13544,6 @@ individual manifestations within different social identity categories; social in
 institutional, and societal/structural levels; and, professional social work ethics and values demand cultural competence
 and culturally sensitive practice at the micro, mezzo, and macro levels.
 Core Curriculum Component: None
-334
 
 Prerequisite(s): None
 SWK616
@@ -13923,7 +13589,6 @@ development of self-awareness of the practitioner.
 Core Curriculum Component: None
 Prerequisite(s): None
 SWK630
-335
 
 MCCP Policy Practice
 3 Semester Credits
@@ -13968,7 +13633,6 @@ MCCP Elective
 Courses in MCCP electives are opportunities for students to practice with a focus on a particular field or aspect of social
 work practice. Examples include Ethics, Substance Abuse and Social Work, and Trauma Therapy and Treatment.
 Core Curriculum Component: None
-336
 
 Prerequisite(s): None
 SWK640
@@ -14011,7 +13675,6 @@ such as affirmative action and equal opportunity policy, culturally competent su
 development, and advocacy.
 Core Curriculum Component: None
 Prerequisite(s): None
-337
 
 SWK658
 Diversity and Inequality 2: MCMP
@@ -14055,7 +13718,6 @@ functions (e.g., recruitment, selection, hiring, training, and evaluation).
 Core Curriculum Component: None
 Prerequisite(s): SWK667(Organizations/Social Administrative Practice 1)
 SWK669
-338
 
 Organizations/Social Administrative Practice 3
 3 Semester Credits
@@ -14096,7 +13758,6 @@ General Elective
 Students in both concentrations complete at least one general elective course for graduation. The following are
 examples of offerings that are rotated each year: Parent and Professional Planning, Interdisciplinary Perspectives on
 Aging, Cognitive Behavioral Therapy in Social Work Clinical Practice, Spirituality and Social Work Practice, Empowerment
-339
 
 of Services Users in Mental Health. We also offer short-term electives abraod: Exploring Human Services in International
 Settings (examples include Mexico, Slovenia, Namibia, South Africa, India, China, and Hong Kong)
@@ -14135,7 +13796,6 @@ THP114
 Theater Practicum: Running Crew
 0 Semester Credits
 
-340
 
 Work on running crew for main-stage production: light or sound board operation, dresser/costume crew; stage and
 production manager for final scenes from Stage Direction class.
@@ -14174,7 +13834,6 @@ Core Curriculum Component: None
 Prerequisite(s): CONSENT(Consent of Instructor)
 THP123
 Theater Practicum: Costumes
-341
 
 0 Semester Credits
 Production costume construction.
@@ -14213,7 +13872,6 @@ Participation as performer (or as orchestra member) in a main-stage theatrical p
 an actor in a senior directing project or in final scenes for THR 366.
 Core Curriculum Component: None
 Prerequisite(s): CONSENT(Consent of Instructor)
-342
 
 THP132
 Theater Practicum: House Management
@@ -14252,7 +13910,6 @@ Theater Practicum: Artistic Assistance
 Assistant to the designer (scenery, lights, costumes, sound), assistant to the director (dramaturgy,
 choreography/assistant choreography for main-stage production), or a substantial arts management project.
 Core Curriculum Component: None
-343
 
 Prerequisite(s): CONSENT(Consent of Instructor)
 THP141
@@ -14293,7 +13950,6 @@ process. Students attend and review stage productions. This course is primarily 
 fulfill credit toward the theatre major.
 Core Curriculum Component: Fine Arts
 Prerequisite(s): None
-344
 
 THR226
 Movement for Theater
@@ -14335,7 +13991,6 @@ An introduction to the art of acting. Focus on physical, mental, and emotional p
 creative approach to scene and character study in American drama, culminating in public performance. Students attend
 and review local professional productions.
 Core Curriculum Component: Engaging Minneapolis, Fine Arts
-345
 
 Prerequisite(s): None
 THR233
@@ -14377,7 +14032,6 @@ This foundations class focuses on major principles and fundamentals of theater l
 discussion, writing, performance, and projects as ways to interpret a dramatic script for academic and artistic purposes.
 Close readings of plays from various genres and in-depth research projects will enable students to learn and apply skills
 they will use in more advanced courses.
-346
 
 Core Curriculum Component: None
 Prerequisite(s): None
@@ -14418,7 +14072,6 @@ Prerequisite(s): None
 THR275
 Lighting and Sound for the Stage
 4 Semester Credits
-347
 
 A practical study of the lighting and sound design processes for theater and beyond. This course leads the student stepby-step from script analysis through final execution of both a lighting and sound design. Basic principles of light and
 sound, as well as equipment, will be addressed.
@@ -14458,7 +14111,6 @@ THR325
 Playwriting I
 4 Semester Credits
 
-348
 
 An introductory course in writing for theater and performance. Students will learn the basics of dramatic structure,
 character development, and theatrical language, as well as techniques for the development of playscripts from idea to
@@ -14501,7 +14153,6 @@ encounter various forms of dramatic literature, performance theory, and cultural
 discussion, embodied practice, production attendance, textual analysis, research, and writing.
 Core Curriculum Component: None
 
-349
 
 Prerequisite(s): 1 of ENG111(Effective Writing), ENL111(Effective Writing), ENL112(Advanced Effective Writing),
 HON111(Effective Writing for Liberating Letters), WPL(Writing Placement Level); THR250(Script Analysis: Foundations of
@@ -14544,7 +14195,6 @@ deconstruction in regard to stage direction and contemporary theater.
 Core Curriculum Component: None
 Prerequisite(s): THR250(Script Analysis: Foundations of Theater)
 THR397
-350
 
 Internship
 2 Semester Credits
@@ -14584,7 +14234,6 @@ life? The cultural and structural dynamics of the Twin Cities are a basis for ex
 Core Curriculum Component: Social and Behavioral Sciences
 Prerequisite(s): None
 URB122
-351
 
 Social Justice in Urban America
 4 Semester Credits
@@ -14624,7 +14273,6 @@ Topics in Metro-Urban Studies
 4 Semester Credits
 Core Curriculum Component: None
 Prerequisite(s): None
-352
 
 URB397
 Internship
@@ -14665,7 +14313,6 @@ benefits gained from active participation.
 Core Curriculum Component: Recreational Wellness
 Prerequisite(s): None
 WEL104
-353
 
 Recreational Wellness: Bicycling
 1 Semester Credits
@@ -14706,7 +14353,6 @@ Core Curriculum Component: Recreational Wellness
 Prerequisite(s): None
 WEL109
 Recreational Wellness: Kettle Bells
-354
 
 1 Semester Credits
 This is an introductory course designed to teach basic Kettlebell movements and design workouts using a Kettleball. This
@@ -14746,7 +14392,6 @@ Prerequisite(s): None
 WEL114
 Recreational Wellness: Soccer
 1 Semester Credits
-355
 
 This course is designed to provide an introduction to the sport of soccer. Topics addressed consist of, but are not limited
 to: history, rules, terminology, and basic skills, techniques, and tactics associated with participating in, observing, and
@@ -14787,7 +14432,6 @@ Core Curriculum Component: Recreational Wellness
 Prerequisite(s): None
 WEL119
 Recreational Wellness: Latin Dance
-356
 
 1 Semester Credits
 This course is designed to provide an introduction to Latin Dance. Students will understand the history of salsa, mamba,
@@ -14826,7 +14470,6 @@ Recreational Wellness: Introduction to Dance
 1 Semester Credits
 This course provides an overview of the various traditions of movement within dance. Students will participate in basic
 skills and express themselves through movement.
-357
 
 Core Curriculum Component: Recreational Wellness
 Prerequisite(s): None
@@ -14866,7 +14509,6 @@ Recreational Wellness: Ultimate (Frisbee)
 This course addresses the skills and strategies used in Ultimate (Frisbee).
 Core Curriculum Component: Recreational Wellness
 Prerequisite(s): None
-358
 
 WEL150
 Recreational Wellness: Student Designed
@@ -14907,7 +14549,6 @@ WST199
 Internship
 4 Semester Credits
 Core Curriculum Component: None
-359
 
 Prerequisite(s): None
 WST201
@@ -14947,7 +14588,6 @@ Core Curriculum Component: None
 Prerequisite(s): None
 WST305
 Introduction to Queer Studies
-360
 
 4 Semester Credits
 A study of basic issues surrounding sexual orientation in the contemporary U.S. culture including various disciplinary
@@ -14990,7 +14630,6 @@ This course examines the social construction of gender in Latin American countri
 Latin American women today. Includes analysis of poems, excerpts of novels, essays, testimonies, and interviews by and
 about Latin American women. Aims to help students develop an appreciation for the complexity of diversity of Latin
 American women’s experiences.
-361
 
 Core Curriculum Component: None
 Prerequisite(s): SPA311(Spanish Conversation and Composition)
@@ -15031,7 +14670,6 @@ Mexican History, Culture and Cosmovision
 4 Semester Credits
 An exploration of Latin American history from Pre-Columbian times through the conquest and colonial periods up to
 modern Latin America. The course will use a gendered lens to focus on Mexican history, culture and cosmovision.
-362
 
 Core Curriculum Component: Humanities
 Prerequisite(s): 1 of HIS101(The Beginning of Western Culture), HIS102(The Shaping of Western Civilization), HIS103(The
@@ -15074,7 +14712,6 @@ Core Curriculum Component: Augsburg Experience
 Prerequisite(s): None
 WST398
 Internship
-363
 
 2 Semester Credits
 Core Curriculum Component: None
@@ -15113,7 +14750,6 @@ Prerequisite(s): None
 YST – Youth Studies
 YST210
 Rethinking Children and Youth
-364
 
 4 Semester Credits
 Children and youth are often expected to be seen and not heard. This course will develop an appreciative understanding
@@ -15133,7 +14769,3 @@ youth work. Throughout the course, we will consider how our own positionality an
 in work with youth and children. This course has a significant service learning requirement.
 Core Curriculum Component: None
 Prerequisite(s): YST210(Rethinking Children and Youth)
-
-365
-
-

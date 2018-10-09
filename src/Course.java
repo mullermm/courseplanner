@@ -10,6 +10,7 @@ public class Course {
     Enum OfferedIn;                   //Semesters class is offered- Spring Summer Fall...
     String description;             //Description of the course
     String department;              //What department the course is a part of
+    String coreCurriculum;
 
     /** Constructors */
     public Course(String name, int credits, String[] prereq, String coursenumber, Enum offeredIn, String description, String department) {
