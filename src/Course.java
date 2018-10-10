@@ -3,14 +3,15 @@
  */
 public class Course {
 
-    String name;                    //Name of course
+    String name = "";                    //Name of course
     int credits;                    //Number of credits for the course
     String[] prereq;                //List of prereqs for the course
-    String coursenumber;            //Course number
+    String prereqIn = "";                //Input of prereq from file
+    String coursenumber = "";            //Course number
     Enum OfferedIn;                   //Semesters class is offered- Spring Summer Fall...
-    String description;             //Description of the course
-    String department;              //What department the course is a part of
-    String coreCurriculum;
+    String description = "";             //Description of the course
+    String department = "";              //What department the course is a part of
+    String coreCurriculum = "";
 
     /** Constructors */
     public Course(String name, int credits, String[] prereq, String coursenumber, Enum offeredIn, String description, String department) {

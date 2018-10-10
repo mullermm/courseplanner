@@ -1,5 +1,6 @@
 import javax.sound.midi.SysexMessage;
 import java.io.*;
+import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 
@@ -57,11 +58,16 @@ public class CourseListTextScanner {
             scanner = new Scanner(fileIn);              //Our scanner to read in the file from the customer
             RemovePageNumber(scanner, fileIn, tempFile);//Removes the page number from the text file
 
+            scanner = new Scanner(fileIn);              //Our scanner to read in the file from the customer
+            RemoveBlankLines(scanner, fileIn, tempFile);//Removes all empty lines from the text file
+
+            scanner = new Scanner(fileIn);              //Our scanner to read in the file from the customer
+            RemoveLeadingWhiteSpace(scanner, fileIn, tempFile);
+
+            System.out.println("Creating course list");
             scanner = new Scanner(fileIn);
             AddListOfCourse(scanner, courseList);       //Adds listOfCouses to course list object
-            System.out.println("3");
-
-
+            System.out.println("Course List Created");
 
 
         }
@@ -85,57 +91,76 @@ public class CourseListTextScanner {
      */
     public static CourseList AddListOfCourse(Scanner scanner, CourseList courseList){
 
-        String headerRegex = "([A-Z]{3})(\\s)(–|-).*";
-        String creditRegex = "";
+        final String headerRegex = "([A-Z]{2})(\\s)(–|-).*|([A-Z]{3})(\\s)(–|-).*|([A-Z]{5})(\\s)(–|-).*";
+        final String prereqRegex = "[A-Z]{3}[0-9]{3}$|[A-Z]{2}[0-9]{3}$";
+        String headerRegex5 = "\"[A-Z]{3}[0-9]{3}\"";
         String descriptionRegex = "$\\.";
 
         scanner.nextLine();                                 //Eats the first line of the file. We dont need it
-
+        boolean skipRead = true;
+        int line = 0;                                       //Used in debugging. If scanner breaks, you know the line that failed
+        line++;
 
         boolean matches;
         String temp = "";                                   //This will hold the current line being read in by scanner
 
+        temp = scanner.nextLine();                          //read in the first line. line at the end of while loop will read this line for second course
+        line++;
+
         while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
-            temp = scanner.nextLine();                      //read in the next line
-            if(temp.matches(headerRegex)){                  //If the next line is a department header
-                temp = scanner.nextLine();                  //read in the next line
+
+            if(temp.matches(headerRegex)){  //If the next line is a department header
+                temp = scanner.nextLine();                                //read in the next line
+                line++;
 
             }
 
             Course course = new Course();                   //Make a new course to add to courseList's list of coures
             course.coursenumber = temp;                     //assign the course number
+            System.out.println("Course Number: " + course.coursenumber);
             temp = scanner.nextLine();                      //Gets the course name
+            line++;
             course.name = temp;                             //assign the course name
+            System.out.println("Course Name: " + course.name);
             temp = scanner.nextLine();                      //gets the course credits
+            line++;
             course.credits = Integer.parseInt(temp.substring(0,1)); //Stores credit amount
+            System.out.println("Course Credits: " + course.credits);
             temp = scanner.nextLine();
+            line++;
 
-            int count = 0;
 
-            while(temp.endsWith(".") == false){             //The course description ends in a . Keep apending until
-                temp += scanner.nextLine();                 //we find a .
 
+            while(temp.startsWith("Core") == false){             //The course description ends in a . Keep apending until
+                course.description += temp;
+                temp = scanner.nextLine();
+                line++;
             }
-            course.description = temp;                      //Save description to course
 
-            temp = scanner.nextLine();                      //get the core curriculum
+            System.out.println("Course Description: " + course.description);
+
             course.coreCurriculum = temp;                   //Store the core curriculum
+            System.out.println("Course Curriculum: " +  course.coreCurriculum);
 
             temp = scanner.nextLine();                      //Get the next line
+            line++;
 
-            if(temp.endsWith("e")){
-                String[] prereq= new String[1];
-                prereq[0] = temp;
-                course.prereq = prereq;
+            try {
+                //while (!temp.matches(prereqRegex) && !temp.matches(headerRegex)) {
+                while (!temp.matches(prereqRegex) && !temp.matches(headerRegex)) {
+                    course.prereqIn += temp;
+                    temp = scanner.nextLine();
+                    line++;
+                }
             }
-            else{
-
-
-                //KEEP WORKING HERE
+            catch(NoSuchElementException e){
+               //do nothing because YOU AT THE END OF THE FILE!!! :D
             }
 
+            skipRead = true;
 
-
+            System.out.println("Course prereq: " +  course.prereqIn);
+            System.out.println(line);
 
         }
 
@@ -219,6 +244,66 @@ public class CourseListTextScanner {
         while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
             temp = scanner.nextLine();                      //Store next line into temp
             if (temp.contains("-")) {                       //If the line is an integer do nothing and dont copy it
+                //Don't copy line to temp file
+            } else {                                        //Write the line to temp.txt and append a new line
+                br.write(temp);
+                br.write("\n");
+            }
+        }
+
+        br.close();                                         //Close the writer so the buffer clears to temp.txt
+        CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
+        tempFile.delete();                                  //Deletes the temp file
+    }
+
+    /**
+     * This method removes any leading white space from a text file. It uses a temp file to complete this task.
+     *
+     * @param scanner   scanner of input file to read from
+     * @param fileIn    file to have lines removed from
+     * @param tempFile  temp file to store lines as you process the fileIn
+     * @throws IOException  exception saying files could not be found.
+     */
+    public static void RemoveLeadingWhiteSpace(Scanner scanner, File fileIn, File tempFile) throws IOException{
+        FileWriter fw = new FileWriter(tempFile);
+        BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
+        String temp;                                        //This will hold the current line being read in by scanner
+        fw.flush();                                         //Makes sure tempFile is flushed
+
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //Store next line into temp
+            if (temp.startsWith("\\s") || temp.startsWith("\f")) {                   //If the line has leading white space
+                br.write(temp.substring(1,temp.length()));  //Print the substring without the leading whitespace
+                br.write("\n");
+            }
+            else{                                           //Whole line is ok to write
+                br.write(temp);                             //Write the whole line
+                br.write("\n");
+            }
+        }
+
+        br.close();                                         //Close the writer so the buffer clears to temp.txt
+        CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
+        tempFile.delete();                                  //Deletes the temp file
+    }
+
+    /**
+     * This method removes any blank lines from a text file. It uses a temp file to complete this task.
+     *
+     * @param scanner   scanner of input file to read from
+     * @param fileIn    file to have lines removed from
+     * @param tempFile  temp file to store lines as you process the fileIn
+     * @throws IOException  exception saying files could not be found.
+     */
+    public static void RemoveBlankLines(Scanner scanner, File fileIn, File tempFile) throws IOException{
+        FileWriter fw = new FileWriter(tempFile);
+        BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
+        String temp;                                        //This will hold the current line being read in by scanner
+        fw.flush();                                         //Makes sure tempFile is flushed
+
+        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
+            temp = scanner.nextLine();                      //Store next line into temp
+            if (temp.isEmpty()) {                           //If the line is an blank line
                 //Don't copy line to temp file
             } else {                                        //Write the line to temp.txt and append a new line
                 br.write(temp);
