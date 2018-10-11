@@ -92,7 +92,7 @@ public class CourseListTextScanner {
     public static CourseList AddListOfCourse(Scanner scanner, CourseList courseList){
 
         final String headerRegex = "([A-Z]{2})(\\s)(–|-).*|([A-Z]{3})(\\s)(–|-).*|([A-Z]{5})(\\s)(–|-).*";
-        final String prereqRegex = "[A-Z]{3}[0-9]{3}$|[A-Z]{2}[0-9]{3}$";
+        final String prereqRegex = "[A-Z]{3}[0-9]{3}$|[A-Z]{2}[0-9]{3}$|[A-Z]{3}[0-9]{3}[A-Z]{2}$|[A-Z]{3}[0-9]{4}[A-Z]{2}$";
         String headerRegex5 = "\"[A-Z]{3}[0-9]{3}\"";
         String descriptionRegex = "$\\.";
 

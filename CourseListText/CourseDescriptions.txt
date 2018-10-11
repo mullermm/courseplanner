@@ -2267,7 +2267,8 @@ questions, and methods of evaluation.
 Core Curriculum Component: None
 Prerequisite(s): None
 ECS585CE
-AP Courses APPROVED BY GAAC cont ed 1 Semester Credits
+AP Courses APPROVED BY GAAC cont ed
+1 Semester Credits
 Core Curriculum Component: None
 Prerequisite(s): None
 ECS590CE
