@@ -62,12 +62,10 @@ public class CourseListTextScanner {
             RemoveBlankLines(scanner, fileIn, tempFile);//Removes all empty lines from the text file
 
             scanner = new Scanner(fileIn);              //Our scanner to read in the file from the customer
-            RemoveLeadingWhiteSpace(scanner, fileIn, tempFile);
+            RemoveLeadingWhiteSpace(scanner, fileIn, tempFile); //Removes any white space at the front of a line
 
-            System.out.println("Creating course list");
-            scanner = new Scanner(fileIn);
+            scanner = new Scanner(fileIn);              //Our scanner to read in the file from the customer
             AddListOfCourse(scanner, courseList);       //Adds listOfCouses to course list object
-            System.out.println("Course List Created");
 
 
         }
@@ -91,17 +89,19 @@ public class CourseListTextScanner {
      */
     public static CourseList AddListOfCourse(Scanner scanner, CourseList courseList){
 
+
+        /*
+        These regular expressions are used inside the scanner to verify certain input being read in from
+        CourseDescriptions.txt.
+         */
         final String headerRegex = "([A-Z]{2})(\\s)(–|-).*|([A-Z]{3})(\\s)(–|-).*|([A-Z]{5})(\\s)(–|-).*";
         final String prereqRegex = "[A-Z]{3}[0-9]{3}$|[A-Z]{2}[0-9]{3}$|[A-Z]{3}[0-9]{3}[A-Z]{2}$|[A-Z]{3}[0-9]{4}[A-Z]{2}$";
-        String headerRegex5 = "\"[A-Z]{3}[0-9]{3}\"";
-        String descriptionRegex = "$\\.";
 
-        scanner.nextLine();                                 //Eats the first line of the file. We dont need it
-        boolean skipRead = true;
-        int line = 0;                                       //Used in debugging. If scanner breaks, you know the line that failed
-        line++;
+        scanner.nextLine();                                 //Eats the first line of the file. We don't need it
+        int line = 0;                                       //Used in debugging. If scanner breaks, you can print to see the line
+        line++;                                             //This is incremented every time scanner.nextLine() is called
 
-        boolean matches;
+        boolean debug = false;                              //Turn this to true if you want to print courses as you scan the courses
         String temp = "";                                   //This will hold the current line being read in by scanner
 
         temp = scanner.nextLine();                          //read in the first line. line at the end of while loop will read this line for second course
@@ -117,34 +117,28 @@ public class CourseListTextScanner {
 
             Course course = new Course();                   //Make a new course to add to courseList's list of coures
             course.coursenumber = temp;                     //assign the course number
-            System.out.println("Course Number: " + course.coursenumber);
             temp = scanner.nextLine();                      //Gets the course name
             line++;
             course.name = temp;                             //assign the course name
-            System.out.println("Course Name: " + course.name);
             temp = scanner.nextLine();                      //gets the course credits
             line++;
-            course.credits = Integer.parseInt(temp.substring(0,1)); //Stores credit amount
-            System.out.println("Course Credits: " + course.credits);
-            temp = scanner.nextLine();
+            course.credits = Integer.parseInt(temp.substring(0,1));  //Stores credit amount
+            temp = scanner.nextLine();                      //Gets the begining of the course description
             line++;
 
 
-
-            while(temp.startsWith("Core") == false){             //The course description ends in a . Keep apending until
-                course.description += temp;
-                temp = scanner.nextLine();
+            //This will run until we find the worde "Core" because the course description can be multiple lines
+            while(temp.startsWith("Core") == false){
+                course.description += temp;                 //add line to course description
+                temp = scanner.nextLine();                  //get the next line
                 line++;
             }
 
-            System.out.println("Course Description: " + course.description);
-
-            course.coreCurriculum = temp;                   //Store the core curriculum
-            System.out.println("Course Curriculum: " +  course.coreCurriculum);
-
+            course.coreCurriculum = temp;                   //Store the core curriculum. This is always one line
             temp = scanner.nextLine();                      //Get the next line
             line++;
 
+            //This try catch is simply used for catching the end of the file exception
             try {
                 //while (!temp.matches(prereqRegex) && !temp.matches(headerRegex)) {
                 while (!temp.matches(prereqRegex) && !temp.matches(headerRegex)) {
@@ -157,17 +151,16 @@ public class CourseListTextScanner {
                //do nothing because YOU AT THE END OF THE FILE!!! :D
             }
 
-            skipRead = true;
+            //If debug is turned to true, this call will print the course and line number to the console
+            if(debug == true){
+                debugPrint(course, line);
+            }
 
-            System.out.println("Course prereq: " +  course.prereqIn);
-            System.out.println(line);
+            courseList.addToCourses(course);                //Add the course you just built to the courseList object
 
         }
 
-
-
-
-       return courseList;
+       return courseList;        //return the course list with the fully loaded listOfCourses
     }
 
     /**
@@ -214,36 +207,6 @@ public class CourseListTextScanner {
         while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
             temp = scanner.nextLine();                      //Store next line into temp
             if (isInteger(temp)) {                          //If the line is an integer do nothing and dont copy it
-                //Don't copy line to temp file
-            } else {                                        //Write the line to temp.txt and append a new line
-                br.write(temp);
-                br.write("\n");
-            }
-        }
-
-        br.close();                                         //Close the writer so the buffer clears to temp.txt
-        CopyFile(tempFile, fileIn);                         //Copies contents of temp.txt back into original file
-        tempFile.delete();                                  //Deletes the temp file
-    }
-
-    /**
-     * This method takes the course list text document and removes the department header. This header has a - in it,
-     * which makes it easy to find and remove.
-     *
-     * @param scanner scanner of our courselist text file
-     * @param fileIn  file object of course list text file being read in
-     * @param tempFile file object of our temp file for manipulating text
-     * @throws IOException If the temp file is not found, we throw this exception to where it was called from
-     */
-    public static void RemoveDepartmentHeader(Scanner scanner, File fileIn, File tempFile) throws IOException{
-        FileWriter fw = new FileWriter(tempFile);
-        BufferedWriter br = new BufferedWriter(fw);         //This will be used to write the text to a temp
-        String temp;                                        //This will hold the current line being read in by scanner
-        fw.flush();                                         //Makes sure tempFile is flushed
-
-        while(scanner.hasNext()) {                          //While the EoF of fileIn has not been reached
-            temp = scanner.nextLine();                      //Store next line into temp
-            if (temp.contains("-")) {                       //If the line is an integer do nothing and dont copy it
                 //Don't copy line to temp file
             } else {                                        //Write the line to temp.txt and append a new line
                 br.write(temp);
@@ -358,5 +321,21 @@ public class CourseListTextScanner {
         return isValidInteger;
     }
 
+
+    /**
+     * This method will print a course being read in by a scanner and the line the scanner is on.
+     * @param course course to be printed
+     * @param line line the scanner is on.
+     */
+    public static void debugPrint(Course course, int line){
+
+        System.out.println("Course name: " + course.name);
+        System.out.println("Course number: " + course.coursenumber);
+        System.out.println("Course  credit total: " + course.credits);
+        System.out.println("Course description: " + course.description);
+        System.out.println("Course prereq: " + course.prereqIn);
+        System.out.println("Current line of scanner: " + line + "\n");
+
+    }
 
 }
