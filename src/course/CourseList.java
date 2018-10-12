@@ -1,7 +1,5 @@
 package course;
 
-import course.Course;
-
 import java.util.ArrayList;
 
 public class CourseList {

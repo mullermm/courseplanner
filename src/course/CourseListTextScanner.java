@@ -1,8 +1,5 @@
 package course;
 
-import course.Course;
-import course.CourseList;
-
 import java.io.*;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
