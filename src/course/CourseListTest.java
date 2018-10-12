@@ -1,4 +1,7 @@
-import org.junit.Assert;
+package course;
+
+import course.Course;
+import course.CourseList;
 import org.junit.Test;
 import java.util.ArrayList;
 

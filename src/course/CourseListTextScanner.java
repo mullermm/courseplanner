@@ -1,4 +1,8 @@
-import javax.sound.midi.SysexMessage;
+package course;
+
+import course.Course;
+import course.CourseList;
+
 import java.io.*;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
@@ -9,16 +13,6 @@ import java.util.Scanner;
  * the customer. It contains methods that are helpful to scanning the Course list provided by the customer.
  */
 public class CourseListTextScanner {
-
-    /**
-     * This main is used to debug and test the methods of this class
-     * */
-    public static void main(String[] args){
-
-        CourseList courseList = new CourseList();
-        ScanCourseList(courseList);
-
-    }
 
     /**
      * This method is used to scan CourseDescriptions.txt, remove page numbers, read in the text, create course
@@ -320,7 +314,6 @@ public class CourseListTextScanner {
         }
         return isValidInteger;
     }
-
 
     /**
      * This method will print a course being read in by a scanner and the line the scanner is on.

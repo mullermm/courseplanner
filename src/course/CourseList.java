@@ -1,3 +1,7 @@
+package course;
+
+import course.Course;
+
 import java.util.ArrayList;
 
 public class CourseList {
@@ -5,25 +9,9 @@ public class CourseList {
     ArrayList<Course> listOfCourses = new ArrayList<>();                                //Entire list of courses offered at Augsburg
     ArrayList<String> listOfDepartmentNames = new ArrayList<>();                        //Entire list of departments at Augsburg
 
-
-
-    /**
-     * This methos is used for testing a debugging the CourseList class
-     * @param args
-     */
-    public static void main(String[] args){
-
-        CourseList courseList = new CourseList();
-        CourseListTextScanner.ScanCourseList(courseList);
-
-    }
-
-
     /**Constructors */
     public CourseList(){
-
-
-
+        CourseListTextScanner.ScanCourseList(this);                                     //Populates course list with course list and list of departments
     }
 
     /**Getters*/

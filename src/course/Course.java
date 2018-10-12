@@ -1,3 +1,5 @@
+package course;
+
 /**
  * This class represents a course at Augsburg University. It's attributes describe one of these courses.
  */
