@@ -12,6 +12,14 @@ public class CourseList {
         CourseListTextScanner.ScanCourseList(this);                                     //Populates course list with course list and list of departments
     }
 
+    /**
+     * . Empty constructor for testing
+     * @param test if a boolean is sent, this constructor is run
+     */
+    public CourseList(boolean test){
+
+    }
+
     /**Getters*/
     public ArrayList<Course> getListOfCourses(){
         return this.listOfCourses;
@@ -48,7 +56,7 @@ public class CourseList {
 
         while(!found || index < listOfCourses.size()){
 
-            if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
+            if (listOfCourses.get(x).getName().equals(NameOfCoursetoSearch)){
                 found = true;
             }
             index++;
