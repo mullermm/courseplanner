@@ -10,24 +10,13 @@ public class CourseListTest {
 
 
     @Test
-    public void testCourseListConstructor(){
+    public void testSearchByCourseName(){
 
-        CourseList test = new CourseList();
+        Course course = new Course();
+        course.name = "ACC221";
 
-        ArrayList<Course> expected = new ArrayList<Course>();
-        ArrayList<Course> actual = test.getListOfCourses();
-
-        assertEquals(expected, actual);
-
-    }
-
-    @Test
-    public void testString(){
-        
-        String expected = "hello";
-        String actual = "hello";
-
-        assertEquals(expected, actual);
+        CourseList courseList = new CourseList();
+        System.out.println(courseList.SearchByCourseName("ACC221"));
 
     }
 

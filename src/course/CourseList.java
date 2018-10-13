@@ -48,7 +48,7 @@ public class CourseList {
      * @param NameOfCoursetoSearch: string name of course will be passed to search array_list of courses
      *@return integer index  to an array element 
      */
-    public int SearchbyCoureName(String NameOfCoursetoSearch) {
+    public int SearchByCourseName(String NameOfCoursetoSearch) {
 
         boolean found = false;
         int index = 0;
