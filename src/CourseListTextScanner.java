@@ -249,5 +249,32 @@ public class CourseListTextScanner {
         return isValidInteger;
     }
 
+	
+    /**
+     * @param preReqLine : This method will take in a line of string containing null or many requirements 
+     * it'll populate the arraylist in course.prereq[] with the Course numbers as prerecs
+     */
+   public static void processPreReqs(String preReqLine)
+   {	
+	String UnformatedIn = preReqLine;
+//	 CourseList preRequisite = new CourseList();
+//	  //extracting course IDs(pre-reqs) from the input string
+//        //UnformatedIn.length()-1 refers to the length of the- 
+//        //-input string containing all the pre-rec names
+//	if(UnformatedIn.length()>1)//confirming if there's a prereqs to check
+//	for (int cursor=0; cursor < UnformatedIn.length()-1; cursor++)
+//        {
+//    		if(UnformatedIn.charAt(cursor) == ',')
+//                {
+//                    while(cursor < (UnformatedIn.length()-1) && courseIDLength>0)
+//                    tempWord +=UnformatedIn.charAt(cursor);
+//                    courseIDLength--;
+//                    cursor++;
+//                            
+//                }
+//        }        	
+		
+   }
+
 
 }
