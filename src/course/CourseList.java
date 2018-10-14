@@ -1,23 +1,22 @@
+package course;
+
 import java.util.ArrayList;
 
 public class CourseList {
 
-    ArrayList<Course> listOfCourses;
-    ArrayList<String> listOfDepartmentNames;
-    /**
-     * This methos is used for testing a debugging the CourseList class
-     * @param args
-     */
-    public static void main(String[] args){
-
-        CourseList courseList = new CourseList();
-        CourseListTextScanner.ScanCourseList(courseList);
-
-
-    }
+    ArrayList<Course> listOfCourses = new ArrayList<>();                                //Entire list of courses offered at Augsburg
+    ArrayList<String> listOfDepartmentNames = new ArrayList<>();                        //Entire list of departments at Augsburg
 
     /**Constructors */
     public CourseList(){
+        CourseListTextScanner.ScanCourseList(this);                                     //Populates course list with course list and list of departments
+    }
+
+    /**
+     * . Empty constructor for testing
+     * @param test if a boolean is sent, this constructor is run
+     */
+    public CourseList(boolean test){
 
     }
 
@@ -30,8 +29,6 @@ public class CourseList {
         return this.listOfDepartmentNames;
     }
 
-
-
     /**
      * This method adds a course to the array list "listOfCourses"
      * @param course course to add to list of courses
@@ -39,21 +36,19 @@ public class CourseList {
     public void addToCourses(Course course){
         this.listOfCourses.add(course);
     }
+
     /**
      * This method adds a course to the array list "listOfDepartments"
      * @param department department to add to list of department
      */
     public void addToDepartment(String department){ this.listOfDepartmentNames.add(department); }
 
-
-
-
     /**@author Beteab Gebru
      * This method takes in a string(name) of a course and returns the index to the object if found in search
      * @param NameOfCoursetoSearch: string name of course will be passed to search array_list of courses
      *@return integer index  to an array element 
      */
-    public int SearchbyCoureName(String NameOfCoursetoSearch) {
+    public int SearchByCourseName(String NameOfCoursetoSearch) {
 
         boolean found = false;
         int index = 0;
@@ -61,7 +56,7 @@ public class CourseList {
         if(listOfCourses.size()>0)//checking if list is null
         while(!found || index < listOfCourses.size()){
 
-            if (listOfCourses.get(x).getName() == NameOfCoursetoSearch){
+            if (listOfCourses.get(x).getName().equals(NameOfCoursetoSearch)){
                 found = true;
             }
             index++;
