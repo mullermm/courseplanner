@@ -18,9 +18,12 @@ Mo
 Tim
 
 ### This Project is being Completed by
-Maxwell Herron
-Ikram Mohammed
-Chase Strickler
+Maxwell Herron  
+
+Ikram Mohammed  
+
+Chase Strickler  
+
 
 
 
