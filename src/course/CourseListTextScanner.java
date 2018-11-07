@@ -3,7 +3,7 @@ package course;
 import java.io.*;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
-
+import java.sql.*;
 
 /**
  * This class is for scanning the text document comprised of courses. This list was provided by

@@ -13,8 +13,11 @@ This application will allow students to do the following
 
 ###Group Members
 Beteab
+
 Matt
+
 Mo
+
 Tim
 
 
