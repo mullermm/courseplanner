@@ -11,13 +11,19 @@ This application will allow students to do the following
 * "Insert functionality here"
 * "Insert functionality here"
 
-###Group Members
+### Original Authors
 Beteab
+
 Matt
+
 Mo
+
 Tim
 
-
+### This Project is being Completed by
+Maxwell Herron
+Ikram Mohamed
+Chase Strickler
 
 
 
@@ -34,3 +40,4 @@ Tim
 
 ###### File Update History
 Created 9/17/2018 - Matthew Muller 
+# Course-Planner

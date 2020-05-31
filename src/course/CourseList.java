@@ -2,6 +2,9 @@ package course;
 
 import java.util.ArrayList;
 
+/**
+ * This class is a course list of all courses at augsburg.
+ */
 public class CourseList {
 
     ArrayList<Course> listOfCourses = new ArrayList<>();                                //Entire list of courses offered at Augsburg
